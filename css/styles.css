@@ -64,10 +64,10 @@ p {
   height: 10%;
 } */
 img {
-  width: 64%;
-  /* height: 200px; */
+  /* width: 64%; */
+  height: 200px;
   position: absolute;
-  top: 0px;
-  left: 36px;
+  top: 25px;
+  left: 32.5px;
 }
 /* ======================================= */

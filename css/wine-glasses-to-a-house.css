@@ -1,0 +1,65 @@
+.wine-glasses-to-a-house-img-src_1::before {
+  content: '';
+  width: 100%;
+  height: 100%;
+  background-size: 108%;
+  position: absolute;
+  background-image: url(../images/matchstick.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  right: 0%;
+}
+
+.wine-glasses-to-a-house_1 {
+  rotate: 90deg;
+  top: 13%;
+  left: 16.5%;
+}
+.wine-glasses-to-a-house_2 {
+  rotate: 210deg;
+  top: 24.1%;
+  left: 24.7%;
+}
+.wine-glasses-to-a-house_3 {
+  rotate: 330deg;
+  top: 24.1%;
+  left: 8.2%;
+}
+.wine-glasses-to-a-house_4 {
+  rotate: 0deg;
+  top: 47.8%;
+  left: 16.4%;
+}
+.wine-glasses-to-a-house_5 {
+  rotate: 90deg;
+  top: 61.6%;
+  left: 16.5%;
+}
+.wine-glasses-to-a-house_6 {
+  rotate: 90deg;
+  top: 13%;
+  left: 81.5%;
+}
+.wine-glasses-to-a-house_7 {
+  rotate: 210deg;
+  top: 24.1%;
+  left: 89.7%;
+}
+.wine-glasses-to-a-house_8 {
+  rotate: 330deg;
+  top: 24.1%;
+  left: 73.2%;
+}
+.wine-glasses-to-a-house_9 {
+  rotate: 0deg;
+  top: 47.8%;
+  left: 81.4%;
+}
+.wine-glasses-to-a-house_10 {
+  rotate: 90deg;
+  top: 61.6%;
+  left: 81.5%;
+}

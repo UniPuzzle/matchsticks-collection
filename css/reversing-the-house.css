@@ -1,0 +1,70 @@
+.reversing-the-house-img-src_1::before {
+  content: "";
+  width: 100%;
+  height: 100%;
+  background-size: 108%;
+  position: absolute;
+  background-image: url(../images/matchstick.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  right: 0%;
+}
+
+.reversing-the-house_1 {
+  rotate: 270deg;
+  top: 13.7%;
+  left: 49.4%;
+}
+.reversing-the-house_2 {
+  rotate: 330deg;
+  top: 24.7%;
+  left: 73.1%;
+}
+.reversing-the-house_3 {
+  rotate: 330deg;
+  top: 24.7%;
+  left: 41.8%;
+}
+.reversing-the-house_4 {
+  rotate: 30deg;
+  top: 24.7%;
+  left: 25.3%;
+}
+.reversing-the-house_5 {
+  rotate: 270deg;
+  top: 35.7%;
+  left: 33.3%;
+}
+.reversing-the-house_6 {
+  rotate: 270deg;
+  top: 35.7%;
+  left: 64.8%;
+}
+.reversing-the-house_7 {
+  rotate: 0deg;
+  top: 48%;
+  left: 17.3%;
+}
+.reversing-the-house_8 {
+  rotate: 270deg;
+  top: 61.1%;
+  left: 32.9%;
+}
+.reversing-the-house_9 {
+  rotate: 0deg;
+  top: 48%;
+  left: 49%;
+}
+.reversing-the-house_10 {
+  rotate: 270deg;
+  top: 61.1%;
+  left: 64.9%;
+}
+.reversing-the-house_11 {
+  rotate: 0deg;
+  top: 48%;
+  left: 80.5%;
+}

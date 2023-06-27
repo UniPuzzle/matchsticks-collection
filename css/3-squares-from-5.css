@@ -1,0 +1,90 @@
+.three-squares-from-5-img-src_1::before {
+  content: "";
+  width: 100%;
+  height: 100%;
+  background-size: 103%;
+  position: absolute;
+  background-image: url(../images/matchstick.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  right: 0%;
+}
+
+.three-squares-from-5_1 {
+  rotate: 270deg;
+  top: -0.2%;
+  left: 64.8%;
+}
+.three-squares-from-5_2 {
+  rotate: 0deg;
+  top: 12.3%;
+  left: 80.5%;
+}
+.three-squares-from-5_3 {
+  rotate: 0deg;
+  top: 12.3%;
+  left: 48.8%;
+}
+.three-squares-from-5_4 {
+  rotate: 270deg;
+  top: 25.1%;
+  left: 64.8%;
+}
+.three-squares-from-5_5 {
+  rotate: 270deg;
+  top: 25.1%;
+  left: 33%;
+}
+.three-squares-from-5_6 {
+  rotate: 0deg;
+  top: 37.6%;
+  left: 80.5%;
+}
+.three-squares-from-5_7 {
+  rotate: 0deg;
+  top: 62.9%;
+  left: 80.5%;
+}
+.three-squares-from-5_8 {
+  rotate: 0deg;
+  top: 37.6%;
+  left: 48.9%;
+}
+.three-squares-from-5_9 {
+  rotate: 0deg;
+  top: 62.9%;
+  left: 48.9%;
+}
+.three-squares-from-5_10 {
+  rotate: 0deg;
+  top: 37.6%;
+  left: 16.9%;
+}
+.three-squares-from-5_11 {
+  rotate: 0deg;
+  top: 62.9%;
+  left: 16.9%;
+}
+.three-squares-from-5_12 {
+  rotate: 270deg;
+  top: 50.2%;
+  left: 64.8%;
+}
+.three-squares-from-5_13 {
+  rotate: 270deg;
+  top: 50.2%;
+  left: 32.8%;
+}
+.three-squares-from-5_14 {
+  rotate: 270deg;
+  top: 75.7%;
+  left: 64.8%;
+}
+.three-squares-from-5_15 {
+  rotate: 270deg;
+  top: 75.7%;
+  left: 32.8%;
+}

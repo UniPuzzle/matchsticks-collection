@@ -2,36 +2,32 @@
   content: "";
   width: 100%;
   height: 100%;
-  background-size: 108%;
+  background-size: 100%;
   position: absolute;
   background-image: url(../images/matchstick.svg);
   background-repeat: no-repeat;
   background-position: center;
-  top: 0;
-  bottom: 0;
-  margin: auto;
-  right: 0%;
 }
 
 .two-trapeziums-to-3-triangles_1 {
   rotate: 90deg;
   top: 15.2%;
-  left: 32.6%;
+  left: 33.2%;
 }
 .two-trapeziums-to-3-triangles_2 {
   rotate: 90deg;
   top: 15.2%;
-  left: 65%;
+  left: 64.6%;
 }
 .two-trapeziums-to-3-triangles_3 {
   rotate: 150deg;
-  top: 26.1%;
-  left: 24.8%;
+  top: 26.2%;
+  left: 25.2%;
 }
 .two-trapeziums-to-3-triangles_4 {
   rotate: 30deg;
-  top: 48.1%;
-  left: 24.8%;
+  top: 48.2%;
+  left: 25.2%;
 }
 .two-trapeziums-to-3-triangles_5 {
   rotate: 90deg;
@@ -41,20 +37,20 @@
 .two-trapeziums-to-3-triangles_6 {
   rotate: 90deg;
   top: 59.2%;
-  left: 32.8%;
+  left: 33.2%;
 }
 .two-trapeziums-to-3-triangles_7 {
   rotate: 90deg;
   top: 59.2%;
-  left: 64.8%;
+  left: 64.6%;
 }
 .two-trapeziums-to-3-triangles_8 {
   rotate: 30deg;
-  top: 26.1%;
-  left: 72.8%;
+  top: 26.2%;
+  left: 72.5%;
 }
 .two-trapeziums-to-3-triangles_9 {
   rotate: 150deg;
   top: 48.1%;
-  left: 72.8%;
+  left: 72.5%;
 }

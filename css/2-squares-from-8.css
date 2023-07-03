@@ -2,15 +2,11 @@
   content: "";
   width: 100%;
   height: 100%;
-  background-size: 108%;
+  background-size: 100%;
   position: absolute;
   background-image: url(../images/matchstick.svg);
   background-repeat: no-repeat;
   background-position: center;
-  top: 0;
-  bottom: 0;
-  margin: auto;
-  right: 0%;
 }
 
 /* .itr_coin_size-elem-for-two-squares-from-8 {
@@ -21,7 +17,7 @@
 .two-squares-from-8_1 {
   rotate: 270deg;
   top: -0.5%;
-  left: 32.8%;
+  left: 32.9%;
 }
 .two-squares-from-8_2 {
   rotate: 0deg;
@@ -40,7 +36,7 @@
 }
 .two-squares-from-8_5 {
   rotate: 0deg;
-  top: 62.9%;
+  top: 63%;
   left: 17%;
 }
 .two-squares-from-8_6 {
@@ -55,7 +51,7 @@
 }
 .two-squares-from-8_8 {
   rotate: 0deg;
-  top: 62.9%;
+  top: 63%;
   left: 48.7%;
 }
 .two-squares-from-8_9 {
@@ -70,13 +66,13 @@
 }
 .two-squares-from-8_11 {
   rotate: 0deg;
-  top: 62.9%;
+  top: 63%;
   left: 80.5%;
 }
 .two-squares-from-8_12 {
   rotate: 270deg;
   top: 24.8%;
-  left: 33%;
+  left: 32.9%;
 }
 .two-squares-from-8_13 {
   rotate: 270deg;
@@ -85,8 +81,8 @@
 }
 .two-squares-from-8_14 {
   rotate: 90deg;
-  top: 50.1%;
-  left: 32.7%;
+  top: 50.2%;
+  left: 32.8%;
 }
 .two-squares-from-8_15 {
   rotate: 270deg;

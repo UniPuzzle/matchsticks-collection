@@ -42,8 +42,8 @@ p {
 .itr_coin_elem {
   position: absolute;
   display: flex;
-  width: 2.6%;
-  height: 25.3%;
+  width: 2.75%;
+  height: 25%;
   outline: 1px solid black;
   border-radius: 20px;
   /* width: 3%;
@@ -63,11 +63,5 @@ p {
   width: 12%;
   height: 10%;
 } */
-img {
-  width: 67%;
-  /* height: 200px; */
-  position: absolute;
-  top: 26px;
-  left: 33px;
-}
+
 /* ======================================= */

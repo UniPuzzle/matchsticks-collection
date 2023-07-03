@@ -10,52 +10,112 @@
 }
 
 .wine-glasses-to-a-house_1 {
-  rotate: 90deg;
+  -ms-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+
+  /* rotate: 90deg; */
   top: 13.1%;
   left: 16.5%;
 }
 .wine-glasses-to-a-house_2 {
-  rotate: 210deg;
+  -ms-transform: rotate(210deg);
+  -webkit-transform: rotate(210deg);
+  -moz-transform: rotate(210deg);
+  -o-transform: rotate(210deg);
+  transform: rotate(210deg);
+
+  /* rotate: 210deg; */
   top: 24.1%;
   left: 24.7%;
 }
 .wine-glasses-to-a-house_3 {
-  rotate: 330deg;
+  -ms-transform: rotate(330deg);
+  -webkit-transform: rotate(330deg);
+  -moz-transform: rotate(330deg);
+  -o-transform: rotate(330deg);
+  transform: rotate(330deg);
+
+  /* rotate: 330deg; */
   top: 24.1%;
   left: 8.2%;
 }
 .wine-glasses-to-a-house_4 {
-  rotate: 0deg;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+
+  /* rotate: 0deg; */
   top: 47.6%;
   left: 16.4%;
 }
 .wine-glasses-to-a-house_5 {
-  rotate: 90deg;
+  -ms-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+
+  /* rotate: 90deg; */
   top: 61.7%;
   left: 16.5%;
 }
 .wine-glasses-to-a-house_6 {
-  rotate: 90deg;
+  -ms-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+
+  /* rotate: 90deg; */
   top: 13.1%;
   left: 81.5%;
 }
 .wine-glasses-to-a-house_7 {
-  rotate: 210deg;
+  -ms-transform: rotate(210deg);
+  -webkit-transform: rotate(210deg);
+  -moz-transform: rotate(210deg);
+  -o-transform: rotate(210deg);
+  transform: rotate(210deg);
+
+  /* rotate: 210deg; */
   top: 24.1%;
   left: 89.7%;
 }
 .wine-glasses-to-a-house_8 {
-  rotate: 330deg;
+  -ms-transform: rotate(330deg);
+  -webkit-transform: rotate(330deg);
+  -moz-transform: rotate(330deg);
+  -o-transform: rotate(330deg);
+  transform: rotate(330deg);
+
+  /* rotate: 330deg; */
   top: 24.1%;
   left: 73.2%;
 }
 .wine-glasses-to-a-house_9 {
-  rotate: 0deg;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+
+  /* rotate: 0deg; */
   top: 47.6%;
   left: 81.4%;
 }
 .wine-glasses-to-a-house_10 {
-  rotate: 90deg;
+  -ms-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+
+  /* rotate: 90deg; */
   top: 61.7%;
   left: 81.5%;
 }

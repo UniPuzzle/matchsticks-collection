@@ -15,87 +15,189 @@
 } */
 
 .two-squares-from-8_1 {
-  rotate: 270deg;
+  -ms-transform: rotate(270deg);
+  -webkit-transform: rotate(270deg);
+  -moz-transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  transform: rotate(270deg);
+
+  /* rotate: 270deg; */
   top: -0.5%;
   left: 32.9%;
 }
 .two-squares-from-8_2 {
-  rotate: 0deg;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+
+  /* rotate: 0deg; */
   top: 11.8%;
   left: 17%;
 }
 .two-squares-from-8_3 {
-  rotate: 270deg;
+  -ms-transform: rotate(270deg);
+  -webkit-transform: rotate(270deg);
+  -moz-transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  transform: rotate(270deg);
+
+  /* rotate: 270deg; */
   top: -0.5%;
   left: 64.8%;
 }
 .two-squares-from-8_4 {
-  rotate: 0deg;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+
+  /* rotate: 0deg; */
   top: 37.4%;
   left: 17%;
 }
 .two-squares-from-8_5 {
-  rotate: 0deg;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+
+  /* rotate: 0deg; */
   top: 63%;
   left: 17%;
 }
 .two-squares-from-8_6 {
-  rotate: 0deg;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+
+  /* rotate: 0deg; */
   top: 11.8%;
   left: 48.7%;
 }
 .two-squares-from-8_7 {
-  rotate: 0deg;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+
+  /* rotate: 0deg; */
   top: 37.4%;
   left: 48.7%;
 }
 .two-squares-from-8_8 {
-  rotate: 0deg;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+
+  /* rotate: 0deg; */
   top: 63%;
   left: 48.7%;
 }
 .two-squares-from-8_9 {
-  rotate: 0deg;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+
+  /* rotate: 0deg; */
   top: 11.8%;
   left: 80.5%;
 }
 .two-squares-from-8_10 {
-  rotate: 0deg;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+
+  /* rotate: 0deg; */
   top: 37.4%;
   left: 80.5%;
 }
 .two-squares-from-8_11 {
-  rotate: 0deg;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+
+  /* rotate: 0deg; */
   top: 63%;
   left: 80.5%;
 }
 .two-squares-from-8_12 {
-  rotate: 270deg;
+  -ms-transform: rotate(270deg);
+  -webkit-transform: rotate(270deg);
+  -moz-transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  transform: rotate(270deg);
+
+  /* rotate: 270deg; */
   top: 24.8%;
   left: 32.9%;
 }
 .two-squares-from-8_13 {
-  rotate: 270deg;
+  -ms-transform: rotate(270deg);
+  -webkit-transform: rotate(270deg);
+  -moz-transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  transform: rotate(270deg);
+
+  /* rotate: 270deg; */
   top: 24.8%;
   left: 64.8%;
 }
 .two-squares-from-8_14 {
-  rotate: 90deg;
+  -ms-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+
+  /* rotate: 90deg; */
   top: 50.2%;
   left: 32.8%;
 }
 .two-squares-from-8_15 {
-  rotate: 270deg;
+  -ms-transform: rotate(270deg);
+  -webkit-transform: rotate(270deg);
+  -moz-transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  transform: rotate(270deg);
+
+  /* rotate: 270deg; */
   top: 50.2%;
   left: 64.6%;
 }
 .two-squares-from-8_16 {
-  rotate: 90deg;
+  -ms-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+
+  /* rotate: 90deg; */
   top: 75.7%;
   left: 32.7%;
 }
 .two-squares-from-8_17 {
-  rotate: 270deg;
+  -ms-transform: rotate(270deg);
+  -webkit-transform: rotate(270deg);
+  -moz-transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  transform: rotate(270deg);
+
+  /* rotate: 270deg; */
   top: 75.7%;
   left: 64.6%;
 }

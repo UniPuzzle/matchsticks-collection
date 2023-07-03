@@ -105,92 +105,199 @@
 } */
 
 .six-squares-to-4-id-19_1 {
-  rotate: 90deg;
+  -ms-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+  /* rotate: 90deg; */
   top: -10%;
   left: 33.7%;
 }
 .six-squares-to-4-id-19_2 {
-  rotate: 180deg;
+  -ms-transform: rotate(180deg);
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  transform: rotate(180deg);
+
+  /* rotate: 180deg; */
   top: 2%;
   left: 18.8%;
 }
 .six-squares-to-4-id-19_3 {
-  rotate: 180deg;
+  -ms-transform: rotate(180deg);
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  transform: rotate(180deg);
+
+  /* rotate: 180deg; */
   top: 2%;
   left: 48.8%;
 }
 .six-squares-to-4-id-19_4 {
-  rotate: 270deg;
+  -ms-transform: rotate(270deg);
+  -webkit-transform: rotate(270deg);
+  -moz-transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  transform: rotate(270deg);
+
+  /* rotate: 270deg; */
   top: 14%;
   left: 33.7%;
 }
 .six-squares-to-4-id-19_5 {
-  rotate: 180deg;
+  -ms-transform: rotate(180deg);
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  transform: rotate(180deg);
+
+  /* rotate: 180deg; */
   top: 26%;
   left: 18.8%;
 }
 .six-squares-to-4-id-19_6 {
-  rotate: 90deg;
+  -ms-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+
+  /* rotate: 90deg; */
   top: 37.9%;
   left: 33.6%;
 }
 .six-squares-to-4-id-19_7 {
-  rotate: 180deg;
+  -ms-transform: rotate(180deg);
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  transform: rotate(180deg);
+
+  /* rotate: 180deg; */
   top: 26%;
   left: 48.8%;
 }
 .six-squares-to-4-id-19_8 {
-  rotate: 270deg;
+  -ms-transform: rotate(270deg);
+  -webkit-transform: rotate(270deg);
+  -moz-transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  transform: rotate(270deg);
+
+  /* rotate: 270deg; */
   top: 14%;
   left: 63.5%;
 }
 .six-squares-to-4-id-19_9 {
-  rotate: 180deg;
+  -ms-transform: rotate(180deg);
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  transform: rotate(180deg);
+
+  /* rotate: 180deg; */
   top: 26%;
   left: 78.5%;
 }
 .six-squares-to-4-id-19_10 {
-  rotate: 270deg;
+  -ms-transform: rotate(270deg);
+  -webkit-transform: rotate(27);
+  -moz-transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  transform: rotate(270deg);
+
+  /* rotate: 270deg; */
   top: 38%;
   left: 63.7%;
 }
 .six-squares-to-4-id-19_11 {
-  rotate: 180deg;
+  -ms-transform: rotate(180deg);
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  transform: rotate(180deg);
+
+  /* rotate: 180deg; */
   top: 50%;
   left: 18.8%;
 }
 .six-squares-to-4-id-19_12 {
-  rotate: 180deg;
+  -ms-transform: rotate(180deg);
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  transform: rotate(180deg);
+
+  /* rotate: 180deg; */
   top: 50%;
   left: 48.8%;
 }
 .six-squares-to-4-id-19_13 {
-  rotate: 180deg;
+  -ms-transform: rotate(180deg);
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  transform: rotate(180deg);
+
+  /* rotate: 180deg; */
   top: 50%;
   left: 78.5%;
 }
 .six-squares-to-4-id-19_14 {
-  rotate: 90deg;
+  -ms-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+
+  /* rotate: 90deg; */
   top: 62%;
   left: 63.4%;
 }
 .six-squares-to-4-id-19_15 {
-  rotate: 270deg;
+  -ms-transform: rotate(270deg);
+  -webkit-transform: rotate(270deg);
+  -moz-transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  transform: rotate(270deg);
+
+  /* rotate: 270deg; */
   top: 62.2%;
   left: 33.7%;
 }
 .six-squares-to-4-id-19_16 {
-  rotate: 180deg;
+  -ms-transform: rotate(180deg);
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  transform: rotate(180deg);
+
+  /* rotate: 180deg; */
   top: 74.3%;
   left: 48.8%;
 }
 .six-squares-to-4-id-19_17 {
-  rotate: 90deg;
+  -ms-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+
+  /* rotate: 90deg; */
   top: 86%;
   left: 63.7%;
 }
 .six-squares-to-4-id-19_18 {
-  rotate: 180deg;
+  -ms-transform: rotate(180deg);
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  transform: rotate(180deg);
+
+  /* rotate: 180deg; */
   top: 74.3%;
   left: 78.5%;
 }

@@ -1,0 +1,26 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="197">
+		<date>2021.11.11.08.51.31</date>
+	<designer>
+		<name type="author" id="UNA">Unknown Author</name>
+	</designer>
+		<title>2 Trapeziums to 3 Triangles</title>
+		<setup goal="image:generate">
+			<rules type="text"> 
+                Move 2 matchsticks to form 3 triangles.
+			</rules>
+                <piece id="1" base="0" rotation="90" meet_ends="0,1" shift="0,0"/>
+								<piece id="2" base="1" rotation="90" meet_ends="1,0" shift="0,0"/>
+								<piece id="3" base="1" rotation="150" meet_ends="0,0" shift="0,0"/>
+								<piece id="4" base="3" rotation="30" meet_ends="1,1" shift="0,0"/>
+								<piece id="5" base="4" rotation="90" meet_ends="1,0" shift="0,0"/>
+								<piece id="6" base="4" rotation="90" meet_ends="0,0" shift="0,0"/>
+								<piece id="7" base="6" rotation="90" meet_ends="1,0" shift="0,0"/>
+								<piece id="8" base="5" rotation="30" meet_ends="1,0" shift="0,0"/>
+								<piece id="9" base="5" rotation="150" meet_ends="1,0" shift="0,0"/> 
+            <solution type="generate">
+                
+            </solution>       
+	   </setup>       
+</puzzle> 

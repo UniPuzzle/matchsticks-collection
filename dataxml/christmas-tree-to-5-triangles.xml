@@ -1,0 +1,19 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="211">
+		<date>2022.22.04.10.09.37</date>
+	<designer>
+		<name type="author" id="UNA">Unknown Author</name>
+	</designer>
+		<title>Christmas Tree to 5 Triangles</title>
+		<setup goal="image:generate"  move-type="move"   >
+			<rules type="text"> 
+                Move 3 matchsticks to get 5 triangles
+			</rules>
+                <piece id="1" base="0" rotation="30" meet_ends="0,1" shift="0,0"/><piece id="2" base="1" rotation="30" meet_ends="1,0" shift="0,0"/><piece id="3" base="2" rotation="150" meet_ends="1,0" shift="0,0"/><piece id="4" base="3" rotation="150" meet_ends="1,0" shift="0,0"/><piece id="5" base="4" rotation="90" meet_ends="1,1" shift="0,0"/><piece id="6" base="5" rotation="270" meet_ends="0,0" shift="0,0"/><piece id="7" base="2" rotation="270" meet_ends="1,0" shift="1,0"/><piece id="8" base="7" rotation="30" meet_ends="1,0" shift="0,0"/><piece id="9" base="8" rotation="150" meet_ends="1,0" shift="0,0"/> 
+            <solution type="generate">
+               <piece id="7" base="1" rotation="270" meet_ends="1,1" shift="0,0"/><piece id="8" base="3" rotation="30" meet_ends="1,1" shift="0,0"/><piece id="9" base="1" rotation="150" meet_ends="1,0" shift="0,0"/> 
+            </solution>       
+	   </setup>       
+	</challenge>
+</puzzle> 

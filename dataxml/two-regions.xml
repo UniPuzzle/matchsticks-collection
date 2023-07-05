@@ -1,0 +1,19 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="224">
+		<date>2021.29.11.07.46.53</date>
+	<designer>
+		<name type="author" id="SGR">Serhiy Grabarchuk</name>
+	</designer>
+		<title>Two Regions</title>
+		<setup goal="image:generate">
+			<rules type="text"> 
+                R
+			</rules>
+                <piece id="1" base="0" rotation="0" meet_ends="0,1" shift="0,0"/><piece id="2" base="1" rotation="0" meet_ends="1,0" shift="0,0"/><piece id="3" base="2" rotation="90" meet_ends="1,0" shift="0,0"/><piece id="4" base="3" rotation="90" meet_ends="1,0" shift="0,0"/><piece id="5" base="4" rotation="180" meet_ends="1,0" shift="0,0"/><piece id="6" base="5" rotation="90" meet_ends="1,0" shift="0,0"/><piece id="7" base="6" rotation="180" meet_ends="1,0" shift="0,0"/><piece id="8" base="7" rotation="270" meet_ends="1,0" shift="0,0"/><piece id="9" base="8" rotation="270" meet_ends="1,0" shift="0,0"/><piece id="10" base="9" rotation="270" meet_ends="1,0" shift="0,0"/><piece id="11" base="9" rotation="0" meet_ends="1,0" shift="0,0"/><piece id="12" base="11" rotation="90" meet_ends="1,0" shift="0,0"/> 
+            <solution type="generate">
+               <piece id="6" base="8" rotation="90" meet_ends="0,0" shift="-1,1"/><piece id="7" base="8" rotation="180" meet_ends="0,0" shift="0,0"/><piece id="11" base="9" rotation="0" meet_ends="0,1" shift="0,0"/><piece id="12" base="5" rotation="180" meet_ends="1,0" shift="0,0"/> 
+            </solution>       
+	   </setup>       
+	</challenge>
+</puzzle> 

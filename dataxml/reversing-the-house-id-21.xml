@@ -1,0 +1,16 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="32">
+		<date>2020.21.12.03.00.41</date>
+	<designer>
+		<name type="author" id="SGS">Serhiy Grabarchuk Jr</name>
+	</designer>
+		<title>Reversing the House (ID: 21--------)</title>
+		<setup goal="image:generate">
+			<rules type="text"> 
+                Move one matchstick to make the house face east instead of west.
+			</rules>
+            <piece id="1" base="0" rotation="270" meet_ends="1,0" shift="0,0"/><piece id="2" base="1" rotation="315" meet_ends="0,1" shift="0,0"/> 
+	   </setup>
+	</challenge>
+</puzzle> 

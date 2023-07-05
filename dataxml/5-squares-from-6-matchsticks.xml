@@ -1,0 +1,21 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="183">
+		<date>2021.27.12.05.30.08</date>
+	<designer>
+		<name type="author" id="SGS">Serhiy Grabarchuk Jr</name>
+	</designer>
+		<title>5 Squares from 6 Matchsticks</title>
+		<setup goal="image:generate"  move-type="move"   >
+			<rules type="text"> 
+                Six matchsticks are placed on a table as is shown.
+
+What is the minimum number of matchsticks which have to be moved in order to get 5 squares out of the 6 matchsticks? Overlapping of the matchsticks is allowed.
+			</rules>
+                <piece id="1" base="0" rotation="0" meet_ends="0,0" shift="0,0"/><piece id="2" base="1" rotation="0" meet_ends="0,0" shift="0.25,0"/><piece id="3" base="2" rotation="0" meet_ends="0,0" shift="0.25,0"/><piece id="4" base="3" rotation="0" meet_ends="0,0" shift="0.25,0"/><piece id="5" base="4" rotation="0" meet_ends="0,0" shift="0.25,0"/><piece id="6" base="5" rotation="0" meet_ends="0,0" shift="0.25,0"/> 
+            <solution type="generate">
+               <piece id="2" base="1" rotation="90" meet_ends="1,0" shift="0,0"/><piece id="4" base="1" rotation="90" meet_ends="1,0" shift="0,0.5"/><piece id="6" base="1" rotation="90" meet_ends="0,0" shift="0,0"/> 
+            </solution>       
+	   </setup>       
+	</challenge>
+</puzzle> 

@@ -1,0 +1,16 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="128">
+		<date>2021.28.02.10.23.29</date>
+	<designer>
+		<name type="author" id="UNA">Unknown Author</name>
+	</designer>
+		<title>Remove Two Matchsticks</title>
+		<setup goal="image:generate">
+			<rules type="text"> 
+                The figure has 14 squares made out of 8 matches. Remove 2 matches leaving 3 squares.
+			</rules>
+            <piece id="1" base="0" rotation="0" meet_ends="0,1" shift="0,0"/><piece id="2" base="1" rotation="90" meet_ends="1,0" shift="0,0"/><piece id="3" base="2" rotation="180" meet_ends="1,0" shift="0,0"/><piece id="4" base="3" rotation="270" meet_ends="1,0" shift="0,0"/><piece id="5" base="4" rotation="180" meet_ends="0,1" shift="-0.3,0"/><piece id="6" base="4" rotation="180" meet_ends="0,1" shift="-0.6,0"/><piece id="7" base="1" rotation="270" meet_ends="0,1" shift="0,-0.3"/><piece id="8" base="1" rotation="270" meet_ends="0,1" shift="0,-0.6"/> 
+	   </setup>
+	</challenge>
+</puzzle> 

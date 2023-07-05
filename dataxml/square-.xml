@@ -1,0 +1,18 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="56">
+		<date>2021.23.01.07.00.14</date>
+	<designer>
+		<name type="author" id="UNA">Unknown Author</name>
+	</designer>
+		<title>Square &amp;</title>
+		<setup goal="image:generate">
+			<rules type="text"> 
+                Ten matchsticks are arranged in the square and the stylized “E” letter.
+
+Move three matchsticks to get two squares.
+			</rules>
+            <piece id="1" base="0" rotation="90" meet_ends="0,1" shift="0,0"/><piece id="2" base="1" rotation="0" meet_ends="1,0" shift="0,0"/><piece id="3" base="2" rotation="270" meet_ends="1,0" shift="0,0"/><piece id="4" base="3" rotation="180" meet_ends="1,0" shift="0,0"/><piece id="5" base="2" rotation="0" meet_ends="1,0" shift="0,0"/><piece id="6" base="5" rotation="90" meet_ends="1,0" shift="0,0"/><piece id="7" base="6" rotation="90" meet_ends="1,0" shift="0,0"/><piece id="8" base="1" rotation="90" meet_ends="1,0" shift="0,0"/><piece id="9" base="8" rotation="90" meet_ends="1,0" shift="0,0"/><piece id="10" base="2" rotation="90" meet_ends="1,0" shift="1,0"/> 
+	   </setup>
+	</challenge>
+</puzzle> 

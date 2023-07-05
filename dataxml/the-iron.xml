@@ -1,0 +1,19 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="205">
+		<date>2021.02.12.05.15.19</date>
+	<designer>
+		<name type="author" id="SGR">Serhiy Grabarchuk</name>
+	</designer>
+		<title>The Iron</title>
+		<setup goal="image:generate">
+			<rules type="text"> 
+                Move 1 matchstick to create 2 triangles.
+			</rules>
+                <piece id="1" base="0" rotation="90" meet_ends="0,1" shift="0,0"/><piece id="2" base="1" rotation="330" meet_ends="0,1" shift="0,0"/><piece id="3" base="2" rotation="90" meet_ends="0,0" shift="0,0"/><piece id="4" base="3" rotation="330" meet_ends="1,0" shift="0,0"/><piece id="5" base="4" rotation="330" meet_ends="0,1" shift="0,0"/><piece id="6" base="2" rotation="30" meet_ends="0,1" shift="0,0"/><piece id="7" base="6" rotation="90" meet_ends="0,0" shift="0,0"/><piece id="8" base="7" rotation="90" meet_ends="1,0" shift="0,0"/> 
+            <solution type="generate">
+               <piece id="3" base="1" rotation="30" meet_ends="1,1" shift="0,0"/> 
+            </solution>       
+	   </setup>       
+	</challenge>
+</puzzle> 

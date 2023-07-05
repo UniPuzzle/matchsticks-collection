@@ -1,0 +1,21 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="177">
+		<date>2021.17.12.11.48.49</date>
+	<designer>
+		<name type="author" id="SGS">Serhiy Grabarchuk Jr</name>
+	</designer>
+		<title>Two Hills</title>
+		<setup goal="image:generate"  move-type="add"   >
+			<rules type="text"> 
+                Eight matchsticks are arranged into a stylized image of two hills as shown.
+
+Using two additional matchsticks is it possible to divide the figure into two parts of the same area and shape?
+			</rules>
+                <piece id="1" base="0" rotation="0" meet_ends="0,1" shift="0,0"/><piece id="2" base="1" rotation="30" meet_ends="1,0" shift="0,0"/><piece id="3" base="2" rotation="150" meet_ends="1,0" shift="0,0"/><piece id="4" base="3" rotation="150" meet_ends="1,0" shift="0,0"/><piece id="5" base="4" rotation="30" meet_ends="1,0" shift="0,0"/><piece id="6" base="5" rotation="180" meet_ends="1,0" shift="0,0"/><piece id="7" base="6" rotation="270" meet_ends="1,0" shift="0,0"/><piece id="8" base="7" rotation="270" meet_ends="1,0" shift="0,0"/><piece id="9" base="6" rotation="0" meet_ends="0,0" shift="0,-1"/><piece id="10" base="9" rotation="0" meet_ends="0,0" shift="-0.2,0"/> 
+            <solution type="generate">
+               <piece id="9" base="7" rotation="300" meet_ends="1,0" shift="0,0"/><piece id="10" base="4" rotation="60" meet_ends="0,1" shift="0,0"/> 
+            </solution>       
+	   </setup>       
+	</challenge>
+</puzzle> 

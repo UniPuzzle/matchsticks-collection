@@ -1,0 +1,16 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="19">
+		<date>2020.10.11.08.02.24</date>
+	<designer>
+		<name type="author" id="KBF">Kobon Fujimura</name>
+	</designer>
+		<title>Test</title>
+		<setup goal="image:generate">
+			<rules type="text"> 
+                VVVV
+			</rules>
+            <piece id="1" base="1" rotation="0" meet_ends="," shift=","/><piece id="3" base="3" rotation="0" meet_ends="," shift=","/> 
+	   </setup>
+	</challenge>
+</puzzle> 

@@ -1,0 +1,19 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="78">
+		<date>2022.23.01.05.02.47</date>
+	<designer>
+		<name type="author" id="SGS">Serhiy Grabarchuk Jr</name>
+	</designer>
+		<title>More Triangles</title>
+		<setup goal="image:generate"  move-type="move"   >
+			<rules type="text"> 
+                There are three triangles in this figure, counting ones of all sizes. Move two matchsticks so that five triangles appear.
+			</rules>
+                <piece id="1" base="0" rotation="270" meet_ends="0,0" shift="0,0"/><piece id="2" base="1" rotation="90" meet_ends="0,0" shift="0,0"/><piece id="3" base="1" rotation="0" meet_ends="0,0" shift="0,0"/><piece id="4" base="3" rotation="210" meet_ends="1,0" shift="0,0.1"/><piece id="5" base="3" rotation="150" meet_ends="1,0" shift="0,0.1"/> 
+            <solution type="generate">
+               <piece id="1" base="3" rotation="240" meet_ends="0,0" shift="0,-0.3"/><piece id="2" base="3" rotation="90" meet_ends="0,0" shift="-0.5,0"/> 
+            </solution>       
+	   </setup>       
+	</challenge>
+</puzzle> 

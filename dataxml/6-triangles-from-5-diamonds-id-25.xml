@@ -1,0 +1,16 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="28">
+		<date>2020.15.12.10.33.43</date>
+	<designer>
+		<name type="author" id="SGS">Serhiy Grabarchuk Jr</name>
+	</designer>
+		<title>6 Triangles from 5 Diamonds (ID 25)</title>
+		<setup goal="image:generate">
+			<rules type="text"> 
+                Move 4 matchsticks to get 6 triangles.
+			</rules>
+            <piece id="1" base="0" rotation="45" meet_ends="1,0" shift="0,0"/><piece id="2" base="1" rotation="135" meet_ends="0,1" shift="0,0"/><piece id="3" base="2" rotation="45" meet_ends="0,0" shift="0,0"/><piece id="4" base="3" rotation="316" meet_ends="1,1" shift="0,0"/> 
+	   </setup>
+	</challenge>
+</puzzle> 

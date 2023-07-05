@@ -1,0 +1,18 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="3">
+		<date>2020.11.12.01.47.19</date>
+	<designer>
+		<name type="author" id="SGS">Serhiy Grabarchuk Jr</name>
+	</designer>
+		<title>Meander to</title>
+		<setup goal="image:generate">
+			<rules type="text"> 
+                The snaky line consists of 14 matchsticks. By moving four matchsticks the line can be transformed into two squares.
+
+What is the total area of the squares obtained?
+			</rules>
+            <piece id="1" base="0" rotation="45" meet_ends="1,0" shift="0,0"/><piece id="2" base="1" rotation="135" meet_ends="1,0" shift="0,0"/><piece id="3" base="2" rotation="45" meet_ends="1,1" shift="0,0"/> 
+	   </setup>
+	</challenge>
+</puzzle> 

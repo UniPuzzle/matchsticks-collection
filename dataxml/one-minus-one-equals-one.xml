@@ -1,0 +1,19 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="174">
+		<date>2022.06.01.01.01.40</date>
+	<designer>
+		<name type="author" id="SGS">Serhiy Grabarchuk Jr</name>
+	</designer>
+		<title>One minus one equals one?</title>
+		<setup goal="image:generate"  move-type="move"   >
+			<rules type="text"> 
+                Move just 1 matchstick.
+			</rules>
+                <piece id="1" base="0" rotation="0" meet_ends="0,1" shift="0,0"/><piece id="2" base="1" rotation="90" meet_ends="0,0" shift="0.3,-0.5"/><piece id="3" base="1" rotation="0" meet_ends="0,0" shift="1.6,0"/><piece id="4" base="3" rotation="90" meet_ends="0,0" shift="0.3,-0.3"/><piece id="5" base="3" rotation="90" meet_ends="0,0" shift="0.3,-0.6"/><piece id="6" base="3" rotation="0" meet_ends="0,0" shift="1.6,0"/> 
+            <solution type="generate">
+               <piece id="2" base="1" rotation="30" meet_ends="0,0" shift="0.5,0"/> 
+            </solution>       
+	   </setup>       
+	</challenge>
+</puzzle> 

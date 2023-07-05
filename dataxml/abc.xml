@@ -1,0 +1,18 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="228">
+		<date>2022.13.05.07.10.34</date>
+	<designer>
+		<name type="author" id="UNA">Unknown Author</name>
+	</designer>
+		<title>ABC</title>
+		<setup goal="image:generate"  move-type="move"   >
+			<rules type="text"> 
+                R
+			</rules>
+                <piece id="1" base="0" rotation="90" meet_ends="0,1" shift="0,0"/><piece id="2" base="1" rotation="0" meet_ends="1,0" shift="0,0"/><piece id="3" base="2" rotation="90" meet_ends="1,0" shift="0,0"/> 
+           
+                
+	   </setup>       
+	</challenge>
+</puzzle> 

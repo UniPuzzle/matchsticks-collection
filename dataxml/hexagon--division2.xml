@@ -1,0 +1,18 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="114">
+		<date>2021.03.02.09.23.11</date>
+	<designer>
+		<name type="author" id="SGS">Serhiy Grabarchuk Jr</name>
+	</designer>
+		<title>Hexagon &amp; Division-2</title>
+		<setup goal="image:generate">
+			<rules type="text"> 
+                Divide this hexagon with five matchsticks into:
+a) two parts of the same area and shape;
+b) three parts of the same area.
+			</rules>
+            <piece id="1" base="0" rotation="0" meet_ends="0,1" shift="0,0"/><piece id="2" base="1" rotation="60" meet_ends="1,0" shift="0,0"/><piece id="3" base="2" rotation="120" meet_ends="1,0" shift="0,0"/><piece id="4" base="3" rotation="180" meet_ends="1,0" shift="0,0"/><piece id="5" base="4" rotation="240" meet_ends="1,0" shift="0,0"/><piece id="6" base="5" rotation="300" meet_ends="1,0" shift="0,0"/><piece id="7" base="6" rotation="0" meet_ends="0,0" shift="1.5,0"/><piece id="8" base="7" rotation="0" meet_ends="0,0" shift="0.2,0"/><piece id="9" base="8" rotation="0" meet_ends="0,0" shift="0.2,0"/><piece id="10" base="9" rotation="0" meet_ends="0,0" shift="0.2,0"/><piece id="11" base="10" rotation="0" meet_ends="0,0" shift="0.2,0"/> 
+	   </setup>
+	</challenge>
+</puzzle> 

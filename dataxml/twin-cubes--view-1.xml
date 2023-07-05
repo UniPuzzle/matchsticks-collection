@@ -1,0 +1,21 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="12">
+		<date>2022.26.04.07.02.08</date>
+	<designer>
+		<name type="author" id="SGS">Serhiy Grabarchuk Jr</name>
+	</designer>
+		<title>Twin Cubes – View 1</title>
+		<setup goal="image:generate"  move-type="move"   >
+			<rules type="text"> 
+                You can see two cubes in this figure.
+
+What is the minimum number of matchsticks to be moved in order to get a figure which consists of three cubes?
+			</rules>
+                <piece id="1" base="0" rotation="60" meet_ends="0,1" shift="0,0"/><piece id="2" base="1" rotation="300" meet_ends="1,1" shift="0,0"/><piece id="3" base="2" rotation="60" meet_ends="0,1" shift="0,0"/><piece id="4" base="3" rotation="300" meet_ends="0,0" shift="0,0"/><piece id="5" base="3" rotation="0" meet_ends="1,1" shift="0,0"/><piece id="6" base="4" rotation="0" meet_ends="1,1" shift="0,0"/><piece id="7" base="6" rotation="300" meet_ends="0,1" shift="0,0"/><piece id="8" base="5" rotation="60" meet_ends="0,1" shift="0,0"/><piece id="9" base="7" rotation="0" meet_ends="0,0" shift="0,0"/><piece id="10" base="3" rotation="60" meet_ends="1,0" shift="0,0"/><piece id="11" base="10" rotation="300" meet_ends="1,1" shift="0,0"/><piece id="12" base="11" rotation="60" meet_ends="0,1" shift="0,0"/><piece id="13" base="12" rotation="300" meet_ends="0,0" shift="0,0"/><piece id="14" base="13" rotation="0" meet_ends="0,1" shift="0,0"/><piece id="15" base="8" rotation="300" meet_ends="1,1" shift="0,0"/><piece id="16" base="15" rotation="60" meet_ends="0,0" shift="0,0"/><piece id="17" base="16" rotation="0" meet_ends="1,0" shift="0,0"/> 
+            <solution type="generate">
+               <piece id="2" base="11" rotation="300" meet_ends="1,0" shift="0,0"/><piece id="10" base="1" rotation="60" meet_ends="1,0" shift="0,0"/> 
+            </solution>       
+	   </setup>       
+	</challenge>
+</puzzle> 

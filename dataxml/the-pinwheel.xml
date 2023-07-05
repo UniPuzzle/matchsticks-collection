@@ -1,0 +1,23 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="182">
+		<date>2021.15.12.08.36.40</date>
+	<designer>
+		<name type="author" id="SGS">Serhiy Grabarchuk Jr</name>
+	</designer>
+		<title>The Pinwheel</title>
+		<setup goal="image:generate"  move-type="move"   >
+			<rules type="text"> 
+                6 matchsticks are arranged into the stylized image of a pinwheel. The pinwheel spins clockwise.
+
+How many matchsticks have to be moved to a new position in order to make the pinwheel rotating counterclockwise?
+
+The shape of the new pinwheel has to be identical to the initial one, only mirrored.
+			</rules>
+                <piece id="1" base="0" rotation="270" meet_ends="1,0" shift="0,0"/><piece id="2" base="1" rotation="0" meet_ends="0,0" shift="-0.5,0"/><piece id="3" base="2" rotation="150" meet_ends="1,1" shift="0,0"/><piece id="4" base="3" rotation="60" meet_ends="0,0" shift="0.5,0.5"/><piece id="5" base="4" rotation="330" meet_ends="0,0" shift="0.5,-0.7"/><piece id="6" base="5" rotation="240" meet_ends="0,0" shift="-0.7,-0.5"/> 
+            <solution type="generate">
+               <piece id="5" base="1" rotation="0" meet_ends="0,0" shift="0,0.5"/><piece id="4" base="2" rotation="90" meet_ends="1,0" shift="0,0.5"/> 
+            </solution>       
+	   </setup>       
+	</challenge>
+</puzzle> 

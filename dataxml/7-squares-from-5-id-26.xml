@@ -1,0 +1,16 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="27">
+		<date>2020.15.12.09.56.50</date>
+	<designer>
+		<name type="author" id="SGS">Serhiy Grabarchuk Jr</name>
+	</designer>
+		<title>7 Squares from 5 (id 26)</title>
+		<setup goal="image:generate">
+			<rules type="text"> 
+                Move 2 matchsticks to get 7 squares out of the present 5 ones.
+			</rules>
+            <piece id="1" base="0" rotation="270" meet_ends="1,0" shift="0,0"/><piece id="2" base="1" rotation="180" meet_ends="1,0" shift="0,0"/><piece id="3" base="1" rotation="270" meet_ends="0,1" shift="0,0"/><piece id="4" base="3" rotation="180" meet_ends="0,0" shift="0,0"/><piece id="5" base="1" rotation="180" meet_ends="0,0" shift="0,0"/><piece id="6" base="5" rotation="270" meet_ends="1,0" shift="0,0"/><piece id="7" base="4" rotation="270" meet_ends="1,0" shift="0,0"/><piece id="8" base="2" rotation="180" meet_ends="1,0" shift="0,0"/><piece id="9" base="5" rotation="180" meet_ends="1,0" shift="0,0"/><piece id="10" base="4" rotation="180" meet_ends="1,0" shift="0,0"/><piece id="11" base="9" rotation="270" meet_ends="1,0" shift="0,0"/><piece id="12" base="10" rotation="270" meet_ends="1,0" shift="0,0"/> 
+	   </setup>
+	</challenge>
+</puzzle> 

@@ -1,0 +1,22 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="158">
+		<date>2022.13.05.10.43.00</date>
+	<designer>
+		<name type="author" id="UNA">Unknown Author</name>
+	</designer>
+		<title>Move 2, Get 3 Triangles</title>
+		<setup goal="image:generate"  move-type="move"   >
+			<rules type="text"> 
+                Move 2 matchsticks to get 3 triangles
+			</rules>
+                <piece id="1" base="0" rotation="30" meet_ends="0,1" shift="0,0"/><piece id="2" base="1" rotation="30" meet_ends="1,0" shift="0,0"/><piece id="3" base="1" rotation="90" meet_ends="0,0" shift="0,0"/><piece id="4" base="3" rotation="90" meet_ends="1,0" shift="0,0"/><piece id="5" base="4" rotation="330" meet_ends="1,0" shift="0,0"/><piece id="6" base="5" rotation="330" meet_ends="1,0" shift="0,0"/><piece id="7" base="1" rotation="90" meet_ends="1,0" shift="0,0"/> 
+           
+                 
+                                                <solution type="generate">
+                                                                <piece id="6" base="1" rotation="330" meet_ends="1,1" shift="0,0"/>
+                                                                <piece id="2" base="5" rotation="30" meet_ends="1,1" shift="0,0"/> 
+                                               </solution>
+	   </setup>       
+	</challenge>
+</puzzle> 

@@ -1,0 +1,19 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="126">
+		<date>2021.19.12.12.51.35</date>
+	<designer>
+		<name type="author" id="MST">Mel Stover</name>
+	</designer>
+		<title>The Giraffe</title>
+		<setup goal="image:generate"  move-type="move"   >
+			<rules type="text"> 
+                Five matchsticks are arranged into the shape of a giraffe. The giraffe is heading to the right. One matchstick has to be moved to make the giraffe heading in another direction. What is the matchstick?
+			</rules>
+                <piece id="1" base="0" rotation="0" meet_ends="0,1" shift="0,0"/><piece id="2" base="1" rotation="90" meet_ends="1,0" shift="0,0"/><piece id="3" base="2" rotation="180" meet_ends="1,0" shift="0,0"/><piece id="4" base="2" rotation="45" meet_ends="1,0" shift="0,0"/><piece id="5" base="4" rotation="135" meet_ends="1,0" shift="-0.5,-0.5"/> 
+            <solution type="generate">
+               <piece id="1" base="3" rotation="270" meet_ends="1,0" shift="0,0"/> 
+            </solution>       
+	   </setup>       
+	</challenge>
+</puzzle> 

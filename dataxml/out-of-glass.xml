@@ -1,0 +1,26 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="176">
+		<date>2022.31.08.09.07.57</date>
+	<designer>
+		<name type="author" id="UNA">Unknown Author</name>
+	</designer>
+		<title>Out of Glass</title>
+		<setup goal="image:generate"  move-type="move"   >
+			<rules type="text"> 
+                R
+			</rules>
+                <piece id="1" base="0" rotation="0" meet_ends="0,1" shift="0,0"/><piece id="2" base="1" rotation="270" meet_ends="0,1" shift="0,0"/><piece id="3" base="2" rotation="0" meet_ends="0,0" shift="0,0"/><piece id="4" base="2" rotation="180" meet_ends="0,0" shift="-0.5,0"/> 
+           
+                 
+                                                <solution type="generate">
+                                                                <piece id="1" base="2" rotation="0" meet_ends="0,1" shift="0.5,0"/>
+                                                                <piece id="2" base="3" rotation="270" meet_ends="0,0" shift="0.5,0"/> 
+                                               </solution> 
+                                                <solution type="generate">
+                                                                <piece id="2" base="1" rotation="270" meet_ends="0,1" shift="-0.5,0"/>
+                                                                <piece id="3" base="2" rotation="0" meet_ends="1,1" shift="-0.5,0"/> 
+                                               </solution>
+	   </setup>       
+	</challenge>
+</puzzle> 

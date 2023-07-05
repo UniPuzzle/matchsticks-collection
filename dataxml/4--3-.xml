@@ -1,0 +1,16 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="88">
+		<date>2021.06.02.10.11.14</date>
+	<designer>
+		<name type="author" id="SGS">Serhiy Grabarchuk Jr</name>
+	</designer>
+		<title>4 - 3 =</title>
+		<setup goal="image:generate">
+			<rules type="text"> 
+                Move three matchsticks to form a correct aquation.
+			</rules>
+            <piece id="1" base="0" rotation="180" meet_ends="0,1" shift="0,0"/><piece id="2" base="1" rotation="0" meet_ends="0,0" shift="0,0"/><piece id="3" base="2" rotation="270" meet_ends="0,0" shift="0,0"/><piece id="4" base="3" rotation="0" meet_ends="1,0" shift="0,0"/><piece id="5" base="3" rotation="90" meet_ends="0,0" shift="0.2,0"/><piece id="6" base="1" rotation="0" meet_ends="0,0" shift="2.4,0"/><piece id="7" base="6" rotation="270" meet_ends="0,0" shift="0,0"/><piece id="8" base="6" rotation="0" meet_ends="0,1" shift="0,0"/><piece id="9" base="8" rotation="270" meet_ends="0,0" shift="0,0"/><piece id="10" base="6" rotation="270" meet_ends="1,0" shift="0,0"/><piece id="11" base="6" rotation="90" meet_ends="0,0" shift="0.2,0.1"/><piece id="12" base="11" rotation="90" meet_ends="0,0" shift="0,-0.2"/> 
+	   </setup>
+	</challenge>
+</puzzle> 

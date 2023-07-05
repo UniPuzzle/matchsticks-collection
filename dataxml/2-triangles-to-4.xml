@@ -1,0 +1,21 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="57">
+		<date>2021.22.12.07.05.04</date>
+	<designer>
+		<name type="author" id="UNA">Unknown Author</name>
+	</designer>
+		<title>2 Triangles to 4</title>
+		<setup goal="image:generate"  move-type="move"   >
+			<rules type="text"> 
+                Six matchsticks are arranged into two equilateral triangles.
+
+They say it is possible to move 1 matchstick to get 4 triangles, no matchstick’s breaking or overlapping in the process.
+			</rules>
+                <piece id="1" base="0" rotation="90" meet_ends="0,1" shift="0,0"/><piece id="2" base="1" rotation="330" meet_ends="1,0" shift="0,0"/><piece id="3" base="1" rotation="210" meet_ends="0,1" shift="0,0"/><piece id="4" base="1" rotation="90" meet_ends="1,0" shift="0.5,0"/><piece id="5" base="4" rotation="330" meet_ends="1,0" shift="0,0"/><piece id="6" base="4" rotation="210" meet_ends="0,1" shift="0,0"/> 
+            <solution type="generate">
+               <piece id="2" base="1" rotation="0" meet_ends="1,0" shift="0,0.5"/> 
+            </solution>       
+	   </setup>       
+	</challenge>
+</puzzle> 

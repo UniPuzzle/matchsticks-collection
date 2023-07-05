@@ -1,0 +1,25 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="17">
+		<date>2022.25.08.03.10.07</date>
+	<designer>
+		<name type="author" id="KBF">Kobon Fujimura</name>
+	</designer>
+		<title>Turn the Fish</title>
+		<setup goal="image:generate"  move-type="move"   >
+			<rules type="text"> 
+                The fish formed of 8 matchsticks is swimming to the left.
+
+By moving 3 matchsticks make the fish swimming in the opposite direction, i.e. to the right.
+			</rules>
+                <piece id="1" base="0" rotation="60" meet_ends="1,0" shift="0,0"/><piece id="2" base="1" rotation="60" meet_ends="0,1" shift="0,0"/><piece id="3" base="2" rotation="300" meet_ends="0,1" shift="0,0"/><piece id="4" base="3" rotation="300" meet_ends="0,1" shift="0,0"/><piece id="5" base="1" rotation="300" meet_ends="0,1" shift="0,0"/><piece id="6" base="5" rotation="300" meet_ends="0,1" shift="0,0"/><piece id="7" base="4" rotation="60" meet_ends="1,0" shift="0,0"/><piece id="8" base="6" rotation="60" meet_ends="1,0" shift="0,0"/> 
+           
+                 
+                                                <solution type="generate">
+                                                                <piece id="1" base="7" rotation="60" meet_ends="0,1" shift="0,0"/>
+                                                                <piece id="2" base="6" rotation="60" meet_ends="0,1" shift="0,0"/>
+                                                                <piece id="8" base="4" rotation="60" meet_ends="0,1" shift="0,0"/> 
+                                               </solution>
+	   </setup>       
+	</challenge>
+</puzzle> 

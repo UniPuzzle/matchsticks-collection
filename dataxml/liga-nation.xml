@@ -1,0 +1,16 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="3">
+		<date>2020.11.11.09.03.27</date>
+	<designer>
+		<name type="author" id="SGS">Serhiy Grabarchuk Jr</name>
+	</designer>
+		<title>Liga nation</title>
+		<setup goal="image:generate">
+			<rules type="text"> 
+                Liga nation
+			</rules>
+            <piece id="1" base="3" rotation="4" meet_ends="1,1" shift="2,3"/><piece id="2" base="1" rotation="2" meet_ends="1,1" shift="34,23"/><piece id="3" base="1" rotation="3" meet_ends="1,1" shift="124,5"/><piece id="4" base="3" rotation="3" meet_ends="1,1" shift="135,53"/><piece id="5" base="2" rotation="2" meet_ends="1,1" shift="15,35"/><piece id="6" base="0" rotation="0" meet_ends="," shift="1,2"/><piece id="7" base="1" rotation="3" meet_ends="," shift="3,4"/><piece id="8" base="2" rotation="2" meet_ends="1," shift="5,6"/><piece id="9" base="3" rotation="13" meet_ends="1," shift="7,8"/><piece id="10" base="4" rotation="14" meet_ends="1," shift="9,"/><piece id="11" base="9" rotation="15" meet_ends=",1" shift="11,12"/><piece id="12" base="10" rotation="0" meet_ends=",1" shift="13,14"/><piece id="13" base="9" rotation="0" meet_ends=",1" shift="15,16"/><piece id="14" base="7" rotation="19" meet_ends="1," shift="17,18"/><piece id="15" base="0" rotation="0" meet_ends="," shift="19,22"/> 
+	   </setup>
+	</challenge>
+</puzzle> 

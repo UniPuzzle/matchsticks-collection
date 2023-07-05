@@ -1,0 +1,16 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="16">
+		<date>2020.07.11.07.06.09</date>
+	<designer>
+		<name type="author" id="SGS">Serhiy Grabarchuk Jr</name>
+	</designer>
+		<title>Test  13</title>
+		<setup goal="image:generate">
+			<rules type="text"> 
+                Test  13
+			</rules>
+            <piece id="1" base="4" rotation="0" meet_ends="," shift="3,23"/><piece id="2" base="1" rotation="3" meet_ends="1,1" shift="3,23"/><piece id="3" base="2" rotation="3" meet_ends="1,1" shift="132,23"/><piece id="4" base="3" rotation="4" meet_ends="1,1" shift="12,2"/><piece id="9" base="1" rotation="0" meet_ends="," shift=","/> 
+	   </setup>
+	</challenge>
+</puzzle> 

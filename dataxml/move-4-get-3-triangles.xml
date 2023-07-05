@@ -1,0 +1,16 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="156">
+		<date>2021.03.03.12.07.58</date>
+	<designer>
+		<name type="author" id="UNA">Unknown Author</name>
+	</designer>
+		<title>Move 4, Get 3 Triangles</title>
+		<setup goal="image:generate">
+			<rules type="text"> 
+                Move four matchsticks to make three equilateral triangles.
+			</rules>
+            <piece id="1" base="0" rotation="90" meet_ends="0,1" shift="0,0"/><piece id="2" base="1" rotation="90" meet_ends="1,0" shift="0,0"/><piece id="3" base="2" rotation="210" meet_ends="1,0" shift="0,0"/><piece id="4" base="1" rotation="150" meet_ends="1,0" shift="0,0"/><piece id="5" base="1" rotation="210" meet_ends="1,0" shift="0,0"/><piece id="6" base="5" rotation="150" meet_ends="1,1" shift="0,0"/><piece id="7" base="6" rotation="90" meet_ends="1,0" shift="0,0"/><piece id="8" base="1" rotation="210" meet_ends="0,1" shift="0,0"/><piece id="9" base="8" rotation="150" meet_ends="0,0" shift="0,0"/><piece id="10" base="8" rotation="90" meet_ends="0,0" shift="0,0"/><piece id="11" base="10" rotation="210" meet_ends="1,0" shift="0,0"/><piece id="12" base="10" rotation="150" meet_ends="1,0" shift="0,0"/> 
+	   </setup>
+	</challenge>
+</puzzle> 

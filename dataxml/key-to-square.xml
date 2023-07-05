@@ -1,0 +1,20 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="2">
+		<date>2020.10.12.09.37.42</date>
+	<designer>
+		<name type="author" id="UNA">Unknown Author</name>
+	</designer>
+		<title>Key to Square</title>
+		<setup goal="image:generate">
+			<rules type="text"> 
+                Ten matchsticks are arranged in the shape of a key.
+Two identical squares can be spotted in the shape.
+ 
+
+Move just 4 matchsticks to obtain three identical squares.
+			</rules>
+            <piece id="1" base="0" rotation="45" meet_ends="1,0" shift="0,0"/><piece id="2" base="1" rotation="135" meet_ends="1,0" shift="0,0"/><piece id="3" base="2" rotation="45" meet_ends="1,1" shift="0,0"/><piece id="4" base="1" rotation="135" meet_ends="0,0" shift="0,0"/><piece id="5" base="2" rotation="90" meet_ends="1,0" shift="0,0"/><piece id="6" base="5" rotation="90" meet_ends="1,0" shift="0,0"/><piece id="7" base="6" rotation="90" meet_ends="1,0" shift="0,0"/><piece id="8" base="7" rotation="180" meet_ends="1,0" shift="0,0"/><piece id="9" base="8" rotation="90" meet_ends="1,1" shift="0,0"/><piece id="10" base="9" rotation="150" meet_ends="0,1" shift="0,0"/> 
+	   </setup>
+	</challenge>
+</puzzle> 

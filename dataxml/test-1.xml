@@ -1,0 +1,18 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="231">
+		<date>2022.29.06.09.03.32</date>
+	<designer>
+		<name type="author" id="MST">Mel Stover</name>
+	</designer>
+		<title>Test 1</title>
+		<setup goal="image:generate"  move-type="move"   >
+			<rules type="text"> 
+                
+			</rules>
+                <piece id="1" base="0" rotation="0" meet_ends="0,0" shift="0,0"/> 
+           
+                
+	   </setup>       
+	</challenge>
+</puzzle> 

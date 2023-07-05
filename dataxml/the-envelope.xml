@@ -1,0 +1,21 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="73">
+		<date>2022.12.01.08.44.36</date>
+	<designer>
+		<name type="author" id="SGS">Serhiy Grabarchuk Jr</name>
+	</designer>
+		<title>The Envelope</title>
+		<setup goal="image:generate"  move-type="move"   >
+			<rules type="text"> 
+                The matchsticks envelope shown in the illustration consists of a triangle and a square.
+
+The goal is to move only one matchstick to get a square and two triangles. Loose ends don't matter.
+			</rules>
+                <piece id="1" base="0" rotation="0" meet_ends="0,0" shift="0,0"/><piece id="2" base="1" rotation="90" meet_ends="1,0" shift="0,0"/><piece id="3" base="2" rotation="180" meet_ends="1,0" shift="0,0"/><piece id="4" base="3" rotation="270" meet_ends="1,0" shift="0,0"/><piece id="5" base="1" rotation="135" meet_ends="1,0" shift="-0.2,-0.3"/><piece id="6" base="5" rotation="225" meet_ends="1,1" shift="0,0"/> 
+            <solution type="generate">
+               <piece id="5" base="6" rotation="45" meet_ends="1,1" shift="0,0"/> 
+            </solution>       
+	   </setup>       
+	</challenge>
+</puzzle> 

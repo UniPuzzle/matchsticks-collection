@@ -1,0 +1,19 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="81">
+		<date>2022.23.01.04.37.00</date>
+	<designer>
+		<name type="author" id="SGS">Serhiy Grabarchuk Jr</name>
+	</designer>
+		<title>Squares in the Window</title>
+		<setup goal="image:generate"  move-type="move"   >
+			<rules type="text"> 
+                This window contains three squares, counting ones of different sizes. Move four matchsticks so that four squares appear.
+			</rules>
+                <piece id="1" base="0" rotation="90" meet_ends="0,1" shift="0,0"/><piece id="2" base="1" rotation="90" meet_ends="1,0" shift="0,0"/><piece id="3" base="2" rotation="0" meet_ends="1,0" shift="0,0"/><piece id="4" base="3" rotation="0" meet_ends="1,0" shift="0,0"/><piece id="5" base="4" rotation="270" meet_ends="1,0" shift="0,0"/><piece id="6" base="5" rotation="270" meet_ends="1,0" shift="0,0"/><piece id="7" base="6" rotation="180" meet_ends="1,0" shift="0,0"/><piece id="8" base="7" rotation="180" meet_ends="1,0" shift="0,0"/><piece id="9" base="1" rotation="0" meet_ends="1,0" shift="0,0"/><piece id="10" base="8" rotation="90" meet_ends="0,0" shift="0,0"/><piece id="11" base="3" rotation="270" meet_ends="1,0" shift="0,0"/> 
+            <solution type="generate">
+               <piece id="4" base="2" rotation="0" meet_ends="0,0" shift="0.65,0"/><piece id="5" base="2" rotation="0" meet_ends="0,0" shift="0.35,0"/><piece id="6" base="1" rotation="0" meet_ends="0,0" shift="0.65,0"/><piece id="7" base="1" rotation="0" meet_ends="0,0" shift="0.35,0"/> 
+            </solution>       
+	   </setup>       
+	</challenge>
+</puzzle> 

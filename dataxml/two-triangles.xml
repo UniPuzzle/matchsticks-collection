@@ -1,0 +1,26 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="226">
+		<date>2022.12.05.12.25.08</date>
+	<designer>
+		<name type="author" id="SGR">Serhiy Grabarchuk</name>
+	</designer>
+		<title>Two Triangles</title>
+		<setup goal="image:generate"  move-type="move"   >
+			<rules type="text"> 
+                R
+			</rules>
+                <piece id="1" base="0" rotation="30" meet_ends="0,1" shift="0,0"/><piece id="2" base="1" rotation="30" meet_ends="1,0" shift="0,0"/><piece id="3" base="2" rotation="150" meet_ends="1,0" shift="0,0"/><piece id="4" base="3" rotation="150" meet_ends="1,0" shift="0,0"/><piece id="5" base="4" rotation="270" meet_ends="1,0" shift="0,0"/><piece id="6" base="5" rotation="270" meet_ends="1,0" shift="0,0"/><piece id="7" base="1" rotation="150" meet_ends="1,0" shift="0,0"/> 
+           
+                 
+                                                <solution type="generate">
+                                                                <piece id="1" base="7" rotation="30" meet_ends="1,0" shift="0,0"/>
+                                                                <piece id="6" base="7" rotation="270" meet_ends="0,1" shift="0,0"/> 
+                                               </solution> 
+                                                <solution type="generate">
+                                                                <piece id="5" base="7" rotation="270" meet_ends="1,0" shift="0,0"/>
+                                                                <piece id="4" base="7" rotation="210" meet_ends="1,1" shift="0,0"/> 
+                                               </solution>
+	   </setup>       
+	</challenge>
+</puzzle> 

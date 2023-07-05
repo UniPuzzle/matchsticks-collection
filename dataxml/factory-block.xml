@@ -1,0 +1,19 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="170">
+		<date>2021.12.06.03.44.19</date>
+	<designer>
+		<name type="author" id="SGR">Serhiy Grabarchuk</name>
+	</designer>
+		<title>Factory Block</title>
+		<setup goal="image:generate">
+			<rules type="text"> 
+                R
+			</rules>
+                 
+            <solution type="generate">
+                
+            </solution>       
+	   </setup>       
+	</challenge>
+</puzzle> 

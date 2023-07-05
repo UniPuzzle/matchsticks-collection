@@ -1,0 +1,23 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="270">
+		<date>2022.28.09.04.09.52</date>
+	<designer>
+		<name type="author" id="UNA">Unknown Author</name>
+	</designer>
+		<title>The Bat Upside-Down</title>
+		<setup goal="image:generate"  move-type="move"   >
+			<rules type="text"> 
+                Move 3 matchsticks to turn the bat uposide-down.
+			</rules>
+                <piece id="1" base="0" rotation="45" meet_ends="0,1" shift="0,0"/><piece id="2" base="1" rotation="315" meet_ends="1,1" shift="0,0"/><piece id="3" base="2" rotation="45" meet_ends="0,0" shift="0,0"/><piece id="4" base="3" rotation="315" meet_ends="1,1" shift="0,0"/><piece id="5" base="4" rotation="45" meet_ends="0,0" shift="0,0"/><piece id="6" base="5" rotation="315" meet_ends="1,1" shift="0,0"/><piece id="7" base="4" rotation="315" meet_ends="1,0" shift="0,0"/><piece id="8" base="7" rotation="45" meet_ends="0,0" shift="0,0"/><piece id="9" base="3" rotation="315" meet_ends="0,1" shift="0,0"/><piece id="10" base="9" rotation="45" meet_ends="0,0" shift="0,0"/> 
+           
+                 
+                                                <solution type="generate">
+                                                                <piece id="1" base="6" rotation="45" meet_ends="0,0" shift="0,0"/>
+                                                                <piece id="9" base="10" rotation="315" meet_ends="1,1" shift="0,0"/>
+                                                                <piece id="7" base="8" rotation="315" meet_ends="1,1" shift="0,0"/> 
+                                               </solution>
+	   </setup>       
+	</challenge>
+</puzzle> 

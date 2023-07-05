@@ -1,0 +1,58 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="272">
+		<date>2022.07.10.10.33.45</date>
+	<designer>
+		<name type="author" id="UNA">Unknown Author</name>
+	</designer>
+		<title>5 Squares to 3</title>
+		<setup goal="image:generate"  move-type="move"   >
+			<rules type="text"> 
+                Move 3 matchsticks to get 3 squares.
+			</rules>
+                <piece id="1" base="0" rotation="0" meet_ends="0,1" shift="0,0"/><piece id="2" base="1" rotation="90" meet_ends="1,0" shift="0,0"/><piece id="3" base="2" rotation="90" meet_ends="1,0" shift="0,0"/><piece id="4" base="3" rotation="0" meet_ends="1,1" shift="0,0"/><piece id="5" base="4" rotation="0" meet_ends="0,1" shift="0,0"/><piece id="6" base="5" rotation="90" meet_ends="0,1" shift="0,0"/><piece id="7" base="6" rotation="90" meet_ends="0,1" shift="0,0"/><piece id="8" base="7" rotation="0" meet_ends="0,0" shift="0,0"/><piece id="9" base="6" rotation="0" meet_ends="0,0" shift="0,0"/><piece id="10" base="2" rotation="0" meet_ends="1,1" shift="0,0"/><piece id="11" base="9" rotation="90" meet_ends="1,1" shift="0,0"/><piece id="12" base="10" rotation="90" meet_ends="0,0" shift="0,0"/> 
+           
+                 
+                                                <solution type="generate">
+                                                                <piece id="8" base="4" rotation="0" meet_ends="0,0" shift="1,0"/>
+                                                                <piece id="3" base="4" rotation="90" meet_ends="1,0" shift="0,0"/>
+                                                                <piece id="7" base="4" rotation="90" meet_ends="0,0" shift="0,0"/> 
+                                               </solution> 
+                                                <solution type="generate">
+                                                                <piece id="6" base="8" rotation="90" meet_ends="1,1" shift="0,0"/>
+                                                                <piece id="2" base="1" rotation="90" meet_ends="1,1" shift="0,0"/>
+                                                                <piece id="5" base="1" rotation="0" meet_ends="0,0" shift="-1,0"/> 
+                                               </solution> 
+                                                <solution type="generate">
+                                                                <piece id="3" base="8" rotation="90" meet_ends="1,1" shift="0,0"/>
+                                                                <piece id="7" base="8" rotation="90" meet_ends="0,1" shift="0,0"/>
+                                                                <piece id="4" base="8" rotation="0" meet_ends="0,0" shift="-1,0"/> 
+                                               </solution> 
+                                                <solution type="generate">
+                                                                <piece id="2" base="5" rotation="90" meet_ends="1,0" shift="0,0"/>
+                                                                <piece id="6" base="5" rotation="90" meet_ends="0,0" shift="0,0"/>
+                                                                <piece id="1" base="5" rotation="0" meet_ends="0,0" shift="1,0"/> 
+                                               </solution> 
+                                                <solution type="generate">
+                                                                <piece id="5" base="3" rotation="0" meet_ends="0,0" shift="0,0"/>
+                                                                <piece id="1" base="2" rotation="0" meet_ends="0,0" shift="0,0"/>
+                                                                <piece id="6" base="2" rotation="90" meet_ends="0,0" shift="0,-1"/> 
+                                               </solution> 
+                                                <solution type="generate">
+                                                                <piece id="4" base="7" rotation="0" meet_ends="1,1" shift="0,0"/>
+                                                                <piece id="8" base="7" rotation="0" meet_ends="0,1" shift="0,0"/>
+                                                                <piece id="3" base="7" rotation="90" meet_ends="0,0" shift="0,1"/> 
+                                               </solution> 
+                                                <solution type="generate">
+                                                                <piece id="8" base="3" rotation="0" meet_ends="0,0" shift="0,0"/>
+                                                                <piece id="4" base="3" rotation="0" meet_ends="1,0" shift="0,0"/>
+                                                                <piece id="7" base="3" rotation="90" meet_ends="0,0" shift="0,-1"/> 
+                                               </solution> 
+                                                <solution type="generate">
+                                                                <piece id="1" base="7" rotation="0" meet_ends="1,1" shift="0,0"/>
+                                                                <piece id="5" base="6" rotation="0" meet_ends="1,1" shift="0,0"/>
+                                                                <piece id="2" base="6" rotation="90" meet_ends="0,0" shift="0,1"/> 
+                                               </solution>
+	   </setup>       
+	</challenge>
+</puzzle> 

@@ -1,0 +1,42 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="186">
+		<date>2022.31.08.01.22.25</date>
+	<designer>
+		<name type="author" id="SGS">Serhiy Grabarchuk Jr</name>
+	</designer>
+		<title>Christmas Tree – Triangles</title>
+		<setup goal="image:generate"  move-type="move"   >
+			<rules type="text"> 
+                This Christmas Tree contains three equilateral triangles.
+
+By moving 3 matchsticks it is possible to get four equilateral triangles on the plain. No overlapping of the matchsticks is allowed.
+
+In the illustration some matchsticks are adjacent to the respective Christmas decorations. It is known some of the matchsticks are never moved for the solution. To what decoration the unmoved matchsticks are adjacent?
+			</rules>
+                <piece id="1" base="0" rotation="270" meet_ends="1,0" shift="0,0"/><piece id="2" base="1" rotation="30" meet_ends="1,0" shift="0,0"/><piece id="3" base="2" rotation="150" meet_ends="1,0" shift="0,0"/><piece id="4" base="1" rotation="150" meet_ends="1,0" shift="0.5,0"/><piece id="5" base="4" rotation="270" meet_ends="1,0" shift="0,0"/><piece id="6" base="5" rotation="30" meet_ends="1,0" shift="0,0"/><piece id="7" base="5" rotation="150" meet_ends="1,0" shift="0.5,0"/><piece id="8" base="7" rotation="270" meet_ends="1,0" shift="0,0"/><piece id="9" base="8" rotation="30" meet_ends="1,0" shift="0,0"/> 
+           
+                 
+                                                <solution type="generate">
+                                                                <piece id="7" base="4" rotation="150" meet_ends="0,1" shift="2.5,0.5"/>
+                                                                <piece id="8" base="4" rotation="270" meet_ends="0,1" shift="-0.5,0.5"/>
+                                                                <piece id="9" base="4" rotation="30" meet_ends="0,0" shift="0.5,0.5"/> 
+                                               </solution> 
+                                                <solution type="generate">
+                                                                <piece id="2" base="9" rotation="30" meet_ends="0,0" shift="1.5,-0.5"/>
+                                                                <piece id="3" base="9" rotation="150" meet_ends="0,0" shift="2.5,-1.5"/>
+                                                                <piece id="1" base="9" rotation="270" meet_ends="0,1" shift="1.5,-0.5"/> 
+                                               </solution> 
+                                                <solution type="generate">
+                                                                <piece id="7" base="6" rotation="150" meet_ends="1,1" shift="-0.5,0.5"/>
+                                                                <piece id="8" base="6" rotation="270" meet_ends="1,0" shift="-0.5,0.5"/>
+                                                                <piece id="9" base="6" rotation="30" meet_ends="1,0" shift="-2.5,0.5"/> 
+                                               </solution> 
+                                                <solution type="generate">
+                                                                <piece id="1" base="9" rotation="270" meet_ends="1,0" shift="-0.5,0.5"/>
+                                                                <piece id="2" base="9" rotation="30" meet_ends="0,0" shift="-1.5,-0.5"/>
+                                                                <piece id="3" base="9" rotation="150" meet_ends="0,0" shift="-0.5,-1.5"/> 
+                                               </solution>
+	   </setup>       
+	</challenge>
+</puzzle> 

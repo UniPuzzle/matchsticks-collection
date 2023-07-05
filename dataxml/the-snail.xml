@@ -1,0 +1,19 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="222">
+		<date>2021.29.11.03.27.17</date>
+	<designer>
+		<name type="author" id="SGR">Serhiy Grabarchuk</name>
+	</designer>
+		<title>The Snail</title>
+		<setup goal="image:generate"  move-type="move"   >
+			<rules type="text"> 
+                R
+			</rules>
+                 
+            <solution type="generate">
+               <piece id="5" base="8" rotation="150" meet_ends="1,0" shift="0,0"/> 
+            </solution>       
+	   </setup>       
+	</challenge>
+</puzzle> 

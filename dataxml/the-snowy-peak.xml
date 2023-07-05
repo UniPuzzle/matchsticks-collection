@@ -1,0 +1,20 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="69">
+		<date>2021.09.02.06.26.26</date>
+	<designer>
+		<name type="author" id="SGS">Serhiy Grabarchuk Jr</name>
+	</designer>
+		<title>The Snowy Peak</title>
+		<setup goal="image:generate">
+			<rules type="text"> 
+                Eleven matchsticks are arranged into the shape of a mountain with the snowy peak. It can be seen the shape contains one equilateral triangle - the big one. Below are three consecutive puzzles.
+
+Puzzle 1. Can you move 1 matchstick to get two equilateral triangles?
+
+Puzzle 2. Starting from the initial position again, can you move now 2 matchsticks to get three equilateral triangles? But note! The matchstick which you have been moving in Puzzle 1 must not be moved now.
+			</rules>
+            <piece id="1" base="0" rotation="30" meet_ends="0,0" shift="0,0"/><piece id="2" base="1" rotation="30" meet_ends="1,0" shift="0,0"/><piece id="3" base="2" rotation="30" meet_ends="1,0" shift="0,0"/><piece id="4" base="3" rotation="150" meet_ends="1,0" shift="0,0"/><piece id="5" base="4" rotation="150" meet_ends="1,0" shift="0,0"/><piece id="6" base="5" rotation="150" meet_ends="1,0" shift="0,0"/><piece id="7" base="6" rotation="270" meet_ends="1,0" shift="0,0"/><piece id="8" base="7" rotation="270" meet_ends="1,0" shift="0,0"/><piece id="9" base="8" rotation="270" meet_ends="1,0" shift="0,0"/><piece id="10" base="2" rotation="150" meet_ends="1,0" shift="0,0"/><piece id="11" base="10" rotation="30" meet_ends="1,0" shift="0,0"/> 
+	   </setup>
+	</challenge>
+</puzzle> 

@@ -33,3 +33,16 @@ p {
   outline: 1px solid black;
   border-radius: 20px;
 }
+.line1 {
+  top: 50%;
+  width: 100%;
+  position: absolute;
+  outline: 1px dotted black;
+}
+.line2 {
+  height: 100%;
+  left: 50%;
+  position: absolute;
+  outline: 1px dotted black;
+  rotate: 0deg;
+}

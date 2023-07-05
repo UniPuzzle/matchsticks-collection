@@ -1,0 +1,131 @@
+.two-more-triangles-img-src_1::before {
+  content: "";
+  width: 100%;
+  height: 100%;
+  background-size: 100%;
+  position: absolute;
+  background-image: url(../images/matchstick.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.two-more-triangles_1 {
+  -ms-transform: rotate(30deg);
+  -webkit-transform: rotate(30deg);
+  -moz-transform: rotate(30deg);
+  -o-transform: rotate(30deg);
+  transform: rotate(30deg);
+
+  top: 36%;
+  left: 24.6%;
+}
+.two-more-triangles_2 {
+  -ms-transform: rotate(30deg);
+  -webkit-transform: rotate(30deg);
+  -moz-transform: rotate(30deg);
+  -o-transform: rotate(30deg);
+  transform: rotate(30deg);
+
+  top: 14.3%;
+  left: 40.6%;
+}
+.two-more-triangles_3 {
+  -ms-transform: rotate(150deg);
+  -webkit-transform: rotate(150deg);
+  -moz-transform: rotate(150deg);
+  -o-transform: rotate(150deg);
+  transform: rotate(150deg);
+
+  top: 14.3%;
+  left: 56.5%;
+}
+.two-more-triangles_4 {
+  -ms-transform: rotate(150deg);
+  -webkit-transform: rotate(150deg);
+  -moz-transform: rotate(150deg);
+  -o-transform: rotate(150deg);
+  transform: rotate(150deg);
+
+  top: 36%;
+  left: 72.2%;
+}
+.two-more-triangles_5 {
+  -ms-transform: rotate(270deg);
+  -webkit-transform: rotate(270deg);
+  -moz-transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  transform: rotate(270deg);
+
+  top: 47.4%;
+  left: 64.3%;
+}
+.two-more-triangles_6 {
+  -ms-transform: rotate(270deg);
+  -webkit-transform: rotate(270deg);
+  -moz-transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  transform: rotate(270deg);
+
+  top: 47.4%;
+  left: 32.9%;
+}
+.two-more-triangles_7 {
+  -ms-transform: rotate(330deg);
+  -webkit-transform: rotate(330deg);
+  -moz-transform: rotate(330deg);
+  -o-transform: rotate(330deg);
+  transform: rotate(330deg);
+
+  top: 26.8%;
+  left: 13.8%;
+}
+.two-more-triangles_8 {
+  -ms-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+
+  top: 15.6%;
+  left: 21.8%;
+}
+.two-more-triangles_9 {
+  -ms-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+
+  top: 15.6%;
+  left: 75%;
+}
+.two-more-triangles_10 {
+  -ms-transform: rotate(210deg);
+  -webkit-transform: rotate(210deg);
+  -moz-transform: rotate(210deg);
+  -o-transform: rotate(210deg);
+  transform: rotate(210deg);
+
+  top: 26.8%;
+  left: 83%;
+}
+.two-more-triangles_11 {
+  -ms-transform: rotate(210deg);
+  -webkit-transform: rotate(210deg);
+  -moz-transform: rotate(210deg);
+  -o-transform: rotate(210deg);
+  transform: rotate(210deg);
+
+  top: 59.5%;
+  left: 56.2%;
+}
+.two-more-triangles_12 {
+  -ms-transform: rotate(330deg);
+  -webkit-transform: rotate(330deg);
+  -moz-transform: rotate(330deg);
+  -o-transform: rotate(330deg);
+  transform: rotate(330deg);
+
+  top: 59.5%;
+  left: 40.8%;
+}

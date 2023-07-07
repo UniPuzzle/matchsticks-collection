@@ -1,0 +1,181 @@
+.twin-cubes--view-1-img-src_1::before {
+  content: "";
+  width: 100%;
+  height: 100%;
+  background-size: 100%;
+  position: absolute;
+  background-image: url(../images/matchstick.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.twin-cubes--view-1_1 {
+  -ms-transform: rotate(60deg);
+  -webkit-transform: rotate(60deg);
+  -moz-transform: rotate(60deg);
+  -o-transform: rotate(60deg);
+  transform: rotate(60deg);
+
+  top: 6%;
+  left: 34.7%;
+}
+.twin-cubes--view-1_2 {
+  -ms-transform: rotate(300deg);
+  -webkit-transform: rotate(300deg);
+  -moz-transform: rotate(300deg);
+  -o-transform: rotate(300deg);
+  transform: rotate(300deg);
+
+  top: 6%;
+  left: 62%;
+}
+.twin-cubes--view-1_3 {
+  -ms-transform: rotate(60deg);
+  -webkit-transform: rotate(60deg);
+  -moz-transform: rotate(60deg);
+  -o-transform: rotate(60deg);
+  transform: rotate(60deg);
+
+  top: 18.4%;
+  left: 62%;
+}
+.twin-cubes--view-1_4 {
+  -ms-transform: rotate(300deg);
+  -webkit-transform: rotate(300deg);
+  -moz-transform: rotate(300deg);
+  -o-transform: rotate(300deg);
+  transform: rotate(300deg);
+
+  top: 18.6%;
+  left: 34.8%;
+}
+.twin-cubes--view-1_5 {
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+
+  top: 25%;
+  left: 21.3%;
+}
+.twin-cubes--view-1_6 {
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+
+  top: 24.9%;
+  left: 76.1%;
+}
+.twin-cubes--view-1_7 {
+  -ms-transform: rotate(300deg);
+  -webkit-transform: rotate(300deg);
+  -moz-transform: rotate(300deg);
+  -o-transform: rotate(300deg);
+  transform: rotate(300deg);
+
+  top: 50%;
+  left: 76.1%;
+}
+.twin-cubes--view-1_8 {
+  -ms-transform: rotate(60deg);
+  -webkit-transform: rotate(60deg);
+  -moz-transform: rotate(60deg);
+  -o-transform: rotate(60deg);
+  transform: rotate(60deg);
+
+  top: 50.5%;
+  left: 21.1%;
+}
+.twin-cubes--view-1_9 {
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+
+  top: 31.1%;
+  left: 34.9%;
+}
+.twin-cubes--view-1_10 {
+  -ms-transform: rotate(60deg);
+  -webkit-transform: rotate(60deg);
+  -moz-transform: rotate(60deg);
+  -o-transform: rotate(60deg);
+  transform: rotate(60deg);
+
+  top: 31.3%;
+  left: 61.8%;
+}
+.twin-cubes--view-1_11 {
+  -ms-transform: rotate(300deg);
+  -webkit-transform: rotate(300deg);
+  -moz-transform: rotate(300deg);
+  -o-transform: rotate(300deg);
+  transform: rotate(300deg);
+
+  top: 69%;
+  left: 35%;
+}
+.twin-cubes--view-1_12 {
+  -ms-transform: rotate(60deg);
+  -webkit-transform: rotate(60deg);
+  -moz-transform: rotate(60deg);
+  -o-transform: rotate(60deg);
+  transform: rotate(60deg);
+
+  top: 69%;
+  left: 62%;
+}
+.twin-cubes--view-1_13 {
+  -ms-transform: rotate(300deg);
+  -webkit-transform: rotate(300deg);
+  -moz-transform: rotate(300deg);
+  -o-transform: rotate(300deg);
+  transform: rotate(300deg);
+
+  top: 62.4%;
+  left: 48.5%;
+}
+.twin-cubes--view-1_14 {
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+
+  top: 43.7%;
+  left: 62.1%;
+}
+.twin-cubes--view-1_15 {
+  -ms-transform: rotate(300deg);
+  -webkit-transform: rotate(300deg);
+  -moz-transform: rotate(300deg);
+  -o-transform: rotate(300deg);
+  transform: rotate(300deg);
+
+  top: 43.8%;
+  left: 34.7%;
+}
+.twin-cubes--view-1_16 {
+  -ms-transform: rotate(60deg);
+  -webkit-transform: rotate(60deg);
+  -moz-transform: rotate(60deg);
+  -o-transform: rotate(60deg);
+  transform: rotate(60deg);
+
+  top: 43.7%;
+  left: 62.1%;
+}
+.twin-cubes--view-1_17 {
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+
+  top: 43.8%;
+  left: 34.7%;
+}

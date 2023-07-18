@@ -10,7 +10,7 @@
 			<rules type="text"> 
                 Move five matchsticks in such a way that the yawl sails in another direction.
 			</rules>
-                <piece id="1" base="0" rotation="270" meet_ends="0,0" shift="0,0"/><piece id="2" base="1" rotation="345" meet_ends="1,0" shift="0,0"/><piece id="3" base="1" rotation="60" meet_ends="0,0" shift="0,0"/><piece id="4" base="3" rotation="90" meet_ends="1,1" shift="0,0"/><piece id="5" base="4" rotation="270" meet_ends="0,0" shift="0,0"/><piece id="6" base="5" rotation="0" meet_ends="0,0" shift="0,0"/><piece id="7" base="6" rotation="0" meet_ends="1,0" shift="0,0"/><piece id="8" base="5" rotation="330" meet_ends="0,0" shift="0,0"/><piece id="9" base="8" rotation="30" meet_ends="1,0" shift="0,0"/> 
+ <piece id="1" base="0" rotation="270" meet_ends="0,0" shift="0,0"/><piece id="2" base="1" rotation="345" meet_ends="1,0" shift="0,0"/><piece id="3" base="1" rotation="60" meet_ends="0,0" shift="0,0"/><piece id="4" base="3" rotation="90" meet_ends="1,1" shift="0,0"/><piece id="5" base="4" rotation="270" meet_ends="0,0" shift="0,0"/><piece id="6" base="5" rotation="0" meet_ends="0,0" shift="0,0"/><piece id="7" base="6" rotation="0" meet_ends="1,0" shift="0,0"/><piece id="8" base="5" rotation="330" meet_ends="0,0" shift="0,0"/><piece id="9" base="8" rotation="30" meet_ends="1,0" shift="0,0"/> 
             <solution type="generate">
                <piece id="2" base="3" rotation="345" meet_ends="1,0" shift="0,0"/><piece id="4" base="6" rotation="60" meet_ends="0,0" shift="0,0"/><piece id="5" base="8" rotation="240" meet_ends="0,0" shift="0,0"/><piece id="7" base="6" rotation="300" meet_ends="1,0" shift="0,0"/><piece id="9" base="8" rotation="330" meet_ends="1,0" shift="0,0"/> 
             </solution>       

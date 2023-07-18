@@ -1,0 +1,132 @@
+.the-wigwam-img-src_1::before {
+  content: "";
+  width: 100%;
+  height: 100%;
+  background-size: 100%;
+  position: absolute;
+  background-image: url(../images/matchstick.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.the-wigwam_1 {
+  -ms-transform: rotate(30deg);
+  -webkit-transform: rotate(30deg);
+  -moz-transform: rotate(30deg);
+  -o-transform: rotate(30deg);
+  transform: rotate(30deg);
+
+  top: 60.2%;
+  left: 8.5%;
+}
+.the-wigwam_2 {
+  -ms-transform: rotate(30deg);
+  -webkit-transform: rotate(30deg);
+  -moz-transform: rotate(30deg);
+  -o-transform: rotate(30deg);
+  transform: rotate(30deg);
+
+  top: 38%;
+  left: 24.5%;
+}
+.the-wigwam_3 {
+  -ms-transform: rotate(30deg);
+  -webkit-transform: rotate(30deg);
+  -moz-transform: rotate(30deg);
+  -o-transform: rotate(30deg);
+  transform: rotate(30deg);
+
+  top: 16%;
+  left: 40.4%;
+}
+.the-wigwam_4 {
+  -ms-transform: rotate(330deg);
+  -webkit-transform: rotate(330deg);
+  -moz-transform: rotate(330deg);
+  -o-transform: rotate(330deg);
+  transform: rotate(330deg);
+
+  top: 16%;
+  left: 56%;
+}
+.the-wigwam_5 {
+  -ms-transform: rotate(330deg);
+  -webkit-transform: rotate(330deg);
+  -moz-transform: rotate(330deg);
+  -o-transform: rotate(330deg);
+  transform: rotate(330deg);
+
+  top: 38%;
+  left: 72%;
+}
+.the-wigwam_6 {
+  -ms-transform: rotate(330deg);
+  -webkit-transform: rotate(330deg);
+  -moz-transform: rotate(330deg);
+  -o-transform: rotate(330deg);
+  transform: rotate(330deg);
+
+  top: 60.2%;
+  left: 88%;
+}
+.the-wigwam_7 {
+  -ms-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+
+  top: 71%;
+  left: 79.7%;
+}
+.the-wigwam_8 {
+  -ms-transform: rotate(330deg);
+  -webkit-transform: rotate(330deg);
+  -moz-transform: rotate(330deg);
+  -o-transform: rotate(330deg);
+  transform: rotate(330deg);
+
+  top: 60.2%;
+  left: 56.5%;
+}
+.the-wigwam_9 {
+  -ms-transform: rotate(30deg);
+  -webkit-transform: rotate(30deg);
+  -moz-transform: rotate(30deg);
+  -o-transform: rotate(30deg);
+  transform: rotate(30deg);
+
+  top: 60.2%;
+  left: 39.8%;
+}
+
+.the-wigwam_10 {
+  -ms-transform: rotate(270deg);
+  -webkit-transform: rotate(270deg);
+  -moz-transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  transform: rotate(270deg);
+
+  top: 71%;
+  left: 16.5%;
+}
+.the-wigwam_11 {
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+
+  top: 14.3%;
+  left: 78.5%;
+}
+.the-wigwam_12 {
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+
+  top: 14.3%;
+  left: 81.7%;
+}

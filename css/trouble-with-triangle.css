@@ -1,0 +1,91 @@
+.trouble-with-triangle-img-src_1::before {
+  content: "";
+  width: 100%;
+  height: 100%;
+  background-size: 100%;
+  position: absolute;
+  background-image: url(../images/matchstick.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.trouble-with-triangle_1 {
+  -ms-transform: rotate(30deg);
+  -webkit-transform: rotate(30deg);
+  -moz-transform: rotate(30deg);
+  -o-transform: rotate(30deg);
+  transform: rotate(30deg);
+
+  top: 60.2%;
+  left: 24.6%;
+}
+.trouble-with-triangle_2 {
+  -ms-transform: rotate(30deg);
+  -webkit-transform: rotate(30deg);
+  -moz-transform: rotate(30deg);
+  -o-transform: rotate(30deg);
+  transform: rotate(30deg);
+
+  top: 38.3%;
+  left: 40.6%;
+}
+.trouble-with-triangle_3 {
+  -ms-transform: rotate(150deg);
+  -webkit-transform: rotate(150deg);
+  -moz-transform: rotate(150deg);
+  -o-transform: rotate(150deg);
+  transform: rotate(150deg);
+
+  top: 38.3%;
+  left: 56.9%;
+}
+.trouble-with-triangle_4 {
+  -ms-transform: rotate(150deg);
+  -webkit-transform: rotate(150deg);
+  -moz-transform: rotate(150deg);
+  -o-transform: rotate(150deg);
+  transform: rotate(150deg);
+
+  top: 60.2%;
+  left: 72.9%;
+}
+.trouble-with-triangle_5 {
+  -ms-transform: rotate(270deg);
+  -webkit-transform: rotate(270deg);
+  -moz-transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  transform: rotate(270deg);
+
+  top: 71.2%;
+  left: 64.8%;
+}
+.trouble-with-triangle_6 {
+  -ms-transform: rotate(270deg);
+  -webkit-transform: rotate(270deg);
+  -moz-transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  transform: rotate(270deg);
+
+  top: 71.2%;
+  left: 32.8%;
+}
+.trouble-with-triangle_7 {
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+
+  top: 15%;
+  left: 77%;
+}
+.trouble-with-triangle_8 {
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+
+  top: 15%;
+  left: 84%;
+}

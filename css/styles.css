@@ -46,3 +46,8 @@ p {
   outline: 1px dotted black;
   rotate: 0deg;
 }
+
+.error {
+  color: red;
+  font-weight: 700;
+}

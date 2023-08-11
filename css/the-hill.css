@@ -1,0 +1,131 @@
+.the-hill-img-src_1::before {
+  content: "";
+  width: 100%;
+  height: 100%;
+  background-size: 100%;
+  position: absolute;
+  background-image: url(../images/matchstick.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.the-hill_1 {
+  -ms-transform: rotate(30deg);
+  -webkit-transform: rotate(30deg);
+  -moz-transform: rotate(30deg);
+  -o-transform: rotate(30deg);
+  transform: rotate(30deg);
+
+  top: 60%;
+  left: 8.5%;
+}
+.the-hill_2 {
+  -ms-transform: rotate(30deg);
+  -webkit-transform: rotate(30deg);
+  -moz-transform: rotate(30deg);
+  -o-transform: rotate(30deg);
+  transform: rotate(30deg);
+
+  top: 38%;
+  left: 24.7%;
+}
+.the-hill_3 {
+  -ms-transform: rotate(30deg);
+  -webkit-transform: rotate(30deg);
+  -moz-transform: rotate(30deg);
+  -o-transform: rotate(30deg);
+  transform: rotate(30deg);
+
+  top: 16%;
+  left: 40.5%;
+}
+.the-hill_4 {
+  -ms-transform: rotate(150deg);
+  -webkit-transform: rotate(150deg);
+  -moz-transform: rotate(150deg);
+  -o-transform: rotate(150deg);
+  transform: rotate(150deg);
+
+  top: 16%;
+  left: 56.4%;
+}
+.the-hill_5 {
+  -ms-transform: rotate(150deg);
+  -webkit-transform: rotate(150deg);
+  -moz-transform: rotate(150deg);
+  -o-transform: rotate(150deg);
+  transform: rotate(150deg);
+
+  top: 38%;
+  left: 72.4%;
+}
+.the-hill_6 {
+  -ms-transform: rotate(150deg);
+  -webkit-transform: rotate(150deg);
+  -moz-transform: rotate(150deg);
+  -o-transform: rotate(150deg);
+  transform: rotate(150deg);
+
+  top: 60%;
+  left: 88.6%;
+}
+.the-hill_7 {
+  -ms-transform: rotate(270deg);
+  -webkit-transform: rotate(270deg);
+  -moz-transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  transform: rotate(270deg);
+
+  top: 71.2%;
+  left: 80.4%;
+}
+.the-hill_8 {
+  -ms-transform: rotate(270deg);
+  -webkit-transform: rotate(270deg);
+  -moz-transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  transform: rotate(270deg);
+
+  top: 71.2%;
+  left: 48.5%;
+}
+.the-hill_9 {
+  -ms-transform: rotate(270deg);
+  -webkit-transform: rotate(270deg);
+  -moz-transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  transform: rotate(270deg);
+
+  top: 71.2%;
+  left: 16.5%;
+}
+.the-hill_10 {
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+
+  top: 18.8%;
+  left: 84.1%;
+}
+.the-hill_11 {
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+
+  top: 18.8%;
+  left: 90.1%;
+}
+.the-hill_12 {
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+
+  top: 18.8%;
+  left: 96.1%;
+}

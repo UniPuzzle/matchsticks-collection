@@ -10,7 +10,7 @@
 			<rules type="text"> 
                 There are four triangles in this figure, counting ones of all sizes. Move one matchstick to make eight triangles.
 			</rules>
-                <piece id="1" base="0" rotation="240" meet_ends="0,0" shift="0,0"/><piece id="2" base="1" rotation="0" meet_ends="0,0" shift="0,0"/><piece id="3" base="1" rotation="120" meet_ends="0,0" shift="0,0"/><piece id="4" base="1" rotation="30" meet_ends="0,0" shift="-0.57,0.52"/><piece id="5" base="4" rotation="150" meet_ends="1,0" shift="0,0"/><piece id="6" base="5" rotation="270" meet_ends="1,0" shift="0,0"/> 
+<piece id="1" base="0" rotation="240" meet_ends="0,0" shift="0,0"/><piece id="2" base="1" rotation="0" meet_ends="0,0" shift="0,0"/><piece id="3" base="1" rotation="120" meet_ends="0,0" shift="0,0"/><piece id="4" base="1" rotation="30" meet_ends="0,0" shift="-0.57,0.52"/><piece id="5" base="4" rotation="150" meet_ends="1,0" shift="0,0"/><piece id="6" base="5" rotation="270" meet_ends="1,0" shift="0,0"/> 
            
                  
                                                 <solution type="generate">

@@ -16,7 +16,7 @@ Puzzle 2 (medium). Can you move one matchstick so that 5 right triangles are cre
 
 Puzzle 3 (hard). Can you move two matchsticks so that 6 right triangles are created?
 			</rules>
-                <piece id="1" base="0" rotation="45" meet_ends="0,0" shift="0,0"/><piece id="2" base="1" rotation="135" meet_ends="1,0" shift="0,0"/><piece id="3" base="2" rotation="225" meet_ends="1,0" shift="0,0"/><piece id="4" base="3" rotation="315" meet_ends="1,0" shift="0,0"/><piece id="5" base="1" rotation="270" meet_ends="0,0" shift="1,0"/><piece id="6" base="5" rotation="90" meet_ends="0,0" shift="0,0"/><piece id="7" base="5" rotation="0" meet_ends="0,0" shift="0,0"/> 
+<piece id="1" base="0" rotation="45" meet_ends="0,0" shift="0,0"/><piece id="2" base="1" rotation="135" meet_ends="1,0" shift="0,0"/><piece id="3" base="2" rotation="225" meet_ends="1,0" shift="0,0"/><piece id="4" base="3" rotation="315" meet_ends="1,0" shift="0,0"/><piece id="5" base="1" rotation="270" meet_ends="0,0" shift="1,0"/><piece id="6" base="5" rotation="90" meet_ends="0,0" shift="0,0"/><piece id="7" base="5" rotation="0" meet_ends="0,0" shift="0,0"/> 
            
                  
                                                 <solution type="generate">

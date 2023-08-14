@@ -1,0 +1,115 @@
+.the-bat-upside-down-img-src_1::before {
+  content: "";
+  width: 100%;
+  height: 100%;
+  background-size: 100%;
+  position: absolute;
+  background-image: url(../images/matchstick.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.itr_coin_size-elem-for-the-bat-upside-down {
+  width: 1.8%;
+  height: 17.1%;
+}
+
+.the-bat-upside-down_1 {
+  -ms-transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+
+  top: 43.8%;
+  left: 10.5%;
+}
+.the-bat-upside-down_2 {
+  -ms-transform: rotate(315deg);
+  -webkit-transform: rotate(315deg);
+  -moz-transform: rotate(315deg);
+  -o-transform: rotate(315deg);
+  transform: rotate(315deg);
+
+  top: 43.8%;
+  left: 25.8%;
+}
+.the-bat-upside-down_3 {
+  -ms-transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+
+  top: 43.8%;
+  left: 41.2%;
+}
+.the-bat-upside-down_4 {
+  -ms-transform: rotate(315deg);
+  -webkit-transform: rotate(315deg);
+  -moz-transform: rotate(315deg);
+  -o-transform: rotate(315deg);
+  transform: rotate(315deg);
+
+  top: 43.8%;
+  left: 57%;
+}
+.the-bat-upside-down_5 {
+  -ms-transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+
+  top: 43.8%;
+  left: 72%;
+}
+.the-bat-upside-down_6 {
+  -ms-transform: rotate(315deg);
+  -webkit-transform: rotate(315deg);
+  -moz-transform: rotate(315deg);
+  -o-transform: rotate(315deg);
+  transform: rotate(315deg);
+
+  top: 43.8%;
+  left: 87.8%;
+}
+.the-bat-upside-down_7 {
+  -ms-transform: rotate(315deg);
+  -webkit-transform: rotate(315deg);
+  -moz-transform: rotate(315deg);
+  -o-transform: rotate(315deg);
+  transform: rotate(315deg);
+
+  top: 31.5%;
+  left: 41.5%;
+}
+.the-bat-upside-down_8 {
+  -ms-transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+
+  top: 31.5%;
+  left: 57%;
+}
+.the-bat-upside-down_9 {
+  -ms-transform: rotate(315deg);
+  -webkit-transform: rotate(315deg);
+  -moz-transform: rotate(315deg);
+  -o-transform: rotate(315deg);
+  transform: rotate(315deg);
+
+  top: 55.8%;
+  left: 41.5%;
+}
+.the-bat-upside-down_10 {
+  -ms-transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+
+  top: 55.8%;
+  left: 56.8%;
+}

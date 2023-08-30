@@ -1,13 +1,3 @@
-.coffee-table-and-the-chair-img-src_1::before {
-  content: "";
-  width: 100%;
-  height: 100%;
-  background-size: 100%;
-  position: absolute;
-  background-image: url(../images/matchstick.svg);
-  background-repeat: no-repeat;
-  background-position: center;
-}
 .itr_coin_size-elem-for-coffee-table-and-the-chair {
   width: 2%;
   height: 19%;

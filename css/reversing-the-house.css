@@ -1,14 +1,3 @@
-.reversing-the-house-img-src_1::before {
-  content: "";
-  width: 100%;
-  height: 100%;
-  background-size: 100%;
-  position: absolute;
-  background-image: url(../images/matchstick.svg);
-  background-repeat: no-repeat;
-  background-position: center;
-}
-
 .reversing-the-house_1 {
   -ms-transform: rotate(270deg);
   -webkit-transform: rotate(270deg);

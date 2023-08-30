@@ -1,14 +1,3 @@
-.twinsangles-img-src_1::before {
-  content: "";
-  width: 100%;
-  height: 100%;
-  background-size: 100%;
-  position: absolute;
-  background-image: url(../images/matchstick.svg);
-  background-repeat: no-repeat;
-  background-position: center;
-}
-
 .twinsangles_1 {
   -ms-transform: rotate(30deg);
   -webkit-transform: rotate(30deg);

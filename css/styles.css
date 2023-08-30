@@ -1,3 +1,24 @@
+html {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+}
+
+body {
+  line-height: 1.12;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
 /* ==========itr_coin_wrap============= */
 .wrap {
   display: flex;
@@ -17,8 +38,10 @@ p {
 
 .itr_coin--width {
   display: flex;
-  width: 200px;
-  height: 250px;
+  width: 105px;
+  height: 130px;
+  /* width: 200px;
+  height: 250px; */
   background-color: #fdecaf;
   margin-left: auto;
   margin-right: auto;
@@ -27,11 +50,39 @@ p {
 
 .itr_coin_elem {
   position: absolute;
-  display: flex;
-  width: 2.75%;
+
+  width: 2.3%;
   height: 25%;
+
   outline: 1px solid black;
   border-radius: 20px;
+}
+
+/* для контейнера 200х250 стандартный размер
+   width: 5.6px; // width: 2.8%;
+  height: 62.5px; // height: 25%; */
+
+/* для контейнера 200х250 уменьшенный размер
+  width: 4.8px; // width: 2.4%;
+  height: 52.5px; // height: 21%; */
+
+/* для контейнера 105х130 стандартный размер */
+/* width: 2.51px; // width: 2.4%;
+      height: 32.5px; // height: 25%; */
+
+/* для контейнера 105х130 уменьшенный размер
+  width: 2.41px; // width: 2.3%;
+  height: 27.3px; // height: 21%; */
+
+.itr_coin_elem::before {
+  content: "";
+  width: 100%;
+  height: 100%;
+  background-size: 100%;
+  position: absolute;
+  background-image: url(../images/matchstick.svg);
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .line1 {
   top: 50%;

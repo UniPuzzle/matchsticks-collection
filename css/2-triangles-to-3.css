@@ -1,13 +1,3 @@
-.two-triangles-to-3-img-src_1::before {
-  content: "";
-  width: 100%;
-  height: 100%;
-  background-size: 100%;
-  position: absolute;
-  background-image: url(../images/matchstick.svg);
-  background-repeat: no-repeat;
-  background-position: center;
-}
 .itr_coin_size-elem-for-two-triangles-to-3 {
   width: 2%;
   height: 19%;

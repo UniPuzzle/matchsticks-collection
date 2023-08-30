@@ -1,16 +1,6 @@
-.the-ten-img-src_1::before {
-  content: "";
-  width: 100%;
-  height: 100%;
-  background-size: 100%;
-  position: absolute;
-  background-image: url(../images/matchstick.svg);
-  background-repeat: no-repeat;
-  background-position: center;
-}
 .itr_coin_size-elem-for-the-ten {
-  width: 2%;
-  height: 19%;
+  width: 2.3%;
+  height: 21%;
 }
 
 .the-ten_1 {

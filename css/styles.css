@@ -40,8 +40,8 @@ p {
   display: flex;
   width: 105px;
   height: 130px;
-  /* width: 200px;
-  height: 250px; */
+  width: 200px;
+  height: 250px;
   background-color: #fdecaf;
   margin-left: auto;
   margin-right: auto;
@@ -51,36 +51,19 @@ p {
 .itr_coin_elem {
   position: absolute;
 
-  width: 2.3%;
+  width: 7px;
   height: 25%;
-
-  outline: 1px solid black;
-  border-radius: 20px;
+  /* background-color: aliceblue; */
+  /* outline: 1px solid black; */
+  /* border-radius: 20px; */
 }
 
-/* для контейнера 200х250 стандартный размер
-   width: 5.6px; // width: 2.8%;
-  height: 62.5px; // height: 25%; */
-
-/* для контейнера 200х250 уменьшенный размер
-  width: 4.8px; // width: 2.4%;
-  height: 52.5px; // height: 21%; */
-
-/* для контейнера 105х130 стандартный размер */
-/* width: 2.51px; // width: 2.4%;
-      height: 32.5px; // height: 25%; */
-
-/* для контейнера 105х130 уменьшенный размер
-  width: 2.41px; // width: 2.3%;
-  height: 27.3px; // height: 21%; */
-
-.itr_coin_elem::before {
+.itr_coin_elem {
   content: "";
-  width: 100%;
-  height: 100%;
-  background-size: 100%;
   position: absolute;
+
   background-image: url(../images/matchstick.svg);
+  background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
 }

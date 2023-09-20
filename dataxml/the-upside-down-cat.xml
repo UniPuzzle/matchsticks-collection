@@ -10,7 +10,15 @@
 			<rules type="text"> 
                 http://matchstickpuzzles.blogspot.com/search?updated-max=2021-05-04T08:42:00%2B02:00&amp;max-results=500
 			</rules>
-                <piece id="1" base="0" rotation="0" meet_ends="0,1" shift="0,0"/><piece id="2" base="1" rotation="0" meet_ends="0,0" shift="1,0"/><piece id="3" base="2" rotation="90" meet_ends="1,0" shift="0,0"/><piece id="4" base="2" rotation="90" meet_ends="0,0" shift="0,0"/><piece id="5" base="4" rotation="0" meet_ends="1,0" shift="0,0"/><piece id="6" base="5" rotation="0" meet_ends="0,0" shift="1,0"/><piece id="7" base="6" rotation="90" meet_ends="1,0" shift="0,0"/><piece id="8" base="6" rotation="90" meet_ends="0,0" shift="0,0"/><piece id="9" base="8" rotation="0" meet_ends="1,0" shift="0,0"/> 
+                <piece id="1" base="0" rotation="0" meet_ends="0,1" shift="0,0"/>
+								<piece id="2" base="1" rotation="0" meet_ends="0,0" shift="1,0"/>
+								<piece id="3" base="2" rotation="90" meet_ends="1,0" shift="0,0"/>
+								<piece id="4" base="2" rotation="90" meet_ends="0,0" shift="0,0"/>
+								<piece id="5" base="4" rotation="0" meet_ends="1,0" shift="0,0"/>
+								<piece id="6" base="5" rotation="0" meet_ends="0,0" shift="1,0"/>
+								<piece id="7" base="6" rotation="90" meet_ends="1,0" shift="0,0"/>
+								<piece id="8" base="6" rotation="90" meet_ends="0,0" shift="0,0"/>
+								<piece id="9" base="8" rotation="0" meet_ends="1,0" shift="0,0"/> 
             <solution type="generate">
                <piece id="3" base="1" rotation="90" meet_ends="0,0" shift="-0.5,0"/><piece id="6" base="2" rotation="90" meet_ends="0,0" shift="0,-0.5"/> 
             </solution>       

@@ -12,7 +12,7 @@
 
 Can you divide the jar into two parts of the same area and shape with two matchsticks?
 			</rules>
-                <piece id="1" base="0" rotation="90" meet_ends="0,1" shift="0,0"/><piece id="2" base="1" rotation="0" meet_ends="1,1" shift="0,0"/><piece id="3" base="2" rotation="150" meet_ends="0,0" shift="0,0"/><piece id="4" base="3" rotation="30" meet_ends="1,1" shift="0,0"/><piece id="5" base="4" rotation="90" meet_ends="0,1" shift="0,0"/><piece id="6" base="5" rotation="330" meet_ends="0,0" shift="0,0"/><piece id="7" base="6" rotation="210" meet_ends="1,1" shift="0,0"/><piece id="8" base="7" rotation="0" meet_ends="0,0" shift="0,0"/><piece id="9" base="2" rotation="0" meet_ends="0,0" shift="1,-0.8"/><piece id="10" base="9" rotation="0" meet_ends="0,0" shift="0.3,0"/> 
+<piece id="1" base="0" rotation="90" meet_ends="0,1" shift="0,0"/><piece id="2" base="1" rotation="0" meet_ends="1,1" shift="0,0"/><piece id="3" base="2" rotation="150" meet_ends="0,0" shift="0,0"/><piece id="4" base="3" rotation="30" meet_ends="1,1" shift="0,0"/><piece id="5" base="4" rotation="90" meet_ends="0,1" shift="0,0"/><piece id="6" base="5" rotation="330" meet_ends="0,0" shift="0,0"/><piece id="7" base="6" rotation="210" meet_ends="1,1" shift="0,0"/><piece id="8" base="7" rotation="0" meet_ends="0,0" shift="0,0"/><piece id="9" base="2" rotation="0" meet_ends="0,0" shift="1,-0.8"/><piece id="10" base="9" rotation="0" meet_ends="0,0" shift="0.3,0"/> 
             <solution type="generate">
                <piece id="10" base="3" rotation="90" meet_ends="1,1" shift="0,0"/><piece id="9" base="7" rotation="150" meet_ends="0,0" shift="0,0"/> 
             </solution>       

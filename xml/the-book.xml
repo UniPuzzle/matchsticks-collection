@@ -1,0 +1,19 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="51">
+		<date>2022.11.01.11.49.41</date>
+	<designer>
+		<name type="author" id="SGS">Serhiy Grabarchuk Jr</name>
+	</designer>
+		<title>The Book</title>
+		<setup goal="image:generate"  move-type="move"   >
+			<rules type="text"> 
+                Rules
+			</rules>
+<piece id="1" base="0" rotation="290" meet_ends="1,0" shift="0,0"/><piece id="2" base="1" rotation="0" meet_ends="0,1" shift="0,0"/><piece id="3" base="2" rotation="70" meet_ends="1,0" shift="0,0"/><piece id="4" base="2" rotation="300" meet_ends="1,0" shift="0,0"/><piece id="5" base="2" rotation="310" meet_ends="1,0" shift="0,0"/><piece id="6" base="2" rotation="290" meet_ends="0,0" shift="0,0"/><piece id="7" base="2" rotation="70" meet_ends="0,0" shift="0,0"/><piece id="8" base="6" rotation="0" meet_ends="1,0" shift="0,0"/><piece id="9" base="7" rotation="0" meet_ends="1,0" shift="0,0"/> 
+            <solution type="generate">
+               <piece id="5" base="4" rotation="0" meet_ends="1,1" shift="0,0"/><piece id="1" base="2" rotation="300" meet_ends="0,0" shift="0,0"/> 
+            </solution>       
+	   </setup>       
+	</challenge>
+</puzzle> 

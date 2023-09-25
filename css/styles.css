@@ -65,6 +65,39 @@ p {
   /* border-radius: 20px; */
 }
 
+.mtck-wrap {
+  /* width: 105px;
+  height: 130px; */
+  /* width: 200px;
+  height: 250px; */
+  /* margin: 7px auto;
+  position: relative; */
+  display: flex;
+  width: 105px;
+  height: 130px;
+  width: 200px;
+  height: 250px;
+  background-color: #fdecaf;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+}
+
+.mtck-elem {
+  content: "";
+  position: absolute;
+
+  width: 7px;
+  height: 25%;
+  /* background-image: url(../up_images/new_images/sec-mtck/matchstick.svg); */
+  background-image: url(../images/matchstick.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  outline: 1px solid black;
+  /* border-radius: 20px; */
+}
+
 .line1 {
   top: 50%;
   width: 100%;

@@ -10,7 +10,7 @@
 			<rules type="text"> 
                 Rules
 			</rules>
-            <piece id="1" base="0" rotation="230" meet_ends="0,1" shift="0,0"/><piece id="2" base="1" rotation="0" meet_ends="0,1" shift="0,0"/><piece id="3" base="2" rotation="135" meet_ends="1,0" shift="0,0"/><piece id="4" base="2" rotation="230" meet_ends="0,0" shift="0,0"/><piece id="5" base="2" rotation="135" meet_ends="0,0" shift="0,0"/><piece id="6" base="4" rotation="135" meet_ends="1,0" shift="0,0"/><piece id="7" base="5" rotation="230" meet_ends="1,0" shift="0,0"/> 
+<piece id="1" base="0" rotation="230" meet_ends="0,1" shift="0,0"/><piece id="2" base="1" rotation="0" meet_ends="0,1" shift="0,0"/><piece id="3" base="2" rotation="135" meet_ends="1,0" shift="0,0"/><piece id="4" base="2" rotation="230" meet_ends="0,0" shift="0,0"/><piece id="5" base="2" rotation="135" meet_ends="0,0" shift="0,0"/><piece id="6" base="4" rotation="135" meet_ends="1,0" shift="0,0"/><piece id="7" base="5" rotation="230" meet_ends="1,0" shift="0,0"/> 
 	   </setup>
 	</challenge>
 </puzzle> 

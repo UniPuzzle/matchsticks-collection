@@ -1,4 +1,4 @@
-.turn-the-fish_1 {
+.mtck-turn-the-fish_1 {
   -ms-transform: rotate(60deg);
   -webkit-transform: rotate(60deg);
   -moz-transform: rotate(60deg);
@@ -8,7 +8,7 @@
   top: 18.5%;
   left: 48.7%;
 }
-.turn-the-fish_2 {
+.mtck-turn-the-fish_2 {
   -ms-transform: rotate(60deg);
   -webkit-transform: rotate(60deg);
   -moz-transform: rotate(60deg);
@@ -18,7 +18,7 @@
   top: 31.3%;
   left: 21%;
 }
-.turn-the-fish_3 {
+.mtck-turn-the-fish_3 {
   -ms-transform: rotate(300deg);
   -webkit-transform: rotate(300deg);
   -moz-transform: rotate(300deg);
@@ -28,7 +28,7 @@
   top: 43.9%;
   left: 21%;
 }
-.turn-the-fish_4 {
+.mtck-turn-the-fish_4 {
   -ms-transform: rotate(300deg);
   -webkit-transform: rotate(300deg);
   -moz-transform: rotate(300deg);
@@ -38,7 +38,7 @@
   top: 56.6%;
   left: 48.5%;
 }
-.turn-the-fish_5 {
+.mtck-turn-the-fish_5 {
   -ms-transform: rotate(300deg);
   -webkit-transform: rotate(300deg);
   -moz-transform: rotate(300deg);
@@ -48,7 +48,7 @@
   top: 31.3%;
   left: 48.3%;
 }
-.turn-the-fish_6 {
+.mtck-turn-the-fish_6 {
   -ms-transform: rotate(300deg);
   -webkit-transform: rotate(300deg);
   -moz-transform: rotate(300deg);
@@ -58,7 +58,7 @@
   top: 43.9%;
   left: 76%;
 }
-.turn-the-fish_7 {
+.mtck-turn-the-fish_7 {
   -ms-transform: rotate(60deg);
   -webkit-transform: rotate(60deg);
   -moz-transform: rotate(60deg);
@@ -68,7 +68,7 @@
   top: 43.8%;
   left: 48.3%;
 }
-.turn-the-fish_8 {
+.mtck-turn-the-fish_8 {
   -ms-transform: rotate(60deg);
   -webkit-transform: rotate(60deg);
   -moz-transform: rotate(60deg);

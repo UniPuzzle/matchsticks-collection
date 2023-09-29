@@ -1,8 +1,8 @@
-.itr_coin_size-elem-for-the-bat-upside-down {
+.changed-the-bat-upside-down {
   height: 17.7%;
 }
 
-.the-bat-upside-down_1 {
+.mtck-the-bat-upside-down_1 {
   -ms-transform: rotate(45deg);
   -webkit-transform: rotate(45deg);
   -moz-transform: rotate(45deg);
@@ -12,7 +12,7 @@
   top: 43.8%;
   left: 10.5%;
 }
-.the-bat-upside-down_2 {
+.mtck-the-bat-upside-down_2 {
   -ms-transform: rotate(315deg);
   -webkit-transform: rotate(315deg);
   -moz-transform: rotate(315deg);
@@ -22,7 +22,7 @@
   top: 43.8%;
   left: 25.8%;
 }
-.the-bat-upside-down_3 {
+.mtck-the-bat-upside-down_3 {
   -ms-transform: rotate(45deg);
   -webkit-transform: rotate(45deg);
   -moz-transform: rotate(45deg);
@@ -32,7 +32,7 @@
   top: 43.8%;
   left: 41.2%;
 }
-.the-bat-upside-down_4 {
+.mtck-the-bat-upside-down_4 {
   -ms-transform: rotate(315deg);
   -webkit-transform: rotate(315deg);
   -moz-transform: rotate(315deg);
@@ -42,17 +42,17 @@
   top: 43.8%;
   left: 57%;
 }
-.the-bat-upside-down_5 {
+.mtck-the-bat-upside-down_5 {
   -ms-transform: rotate(45deg);
   -webkit-transform: rotate(45deg);
   -moz-transform: rotate(45deg);
   -o-transform: rotate(45deg);
   transform: rotate(45deg);
 
-  top: 43.8%;
-  left: 72%;
+  top: 43.5%;
+  left: 72.2%;
 }
-.the-bat-upside-down_6 {
+.mtck-the-bat-upside-down_6 {
   -ms-transform: rotate(315deg);
   -webkit-transform: rotate(315deg);
   -moz-transform: rotate(315deg);
@@ -62,43 +62,43 @@
   top: 43.8%;
   left: 87.8%;
 }
-.the-bat-upside-down_7 {
+.mtck-the-bat-upside-down_7 {
   -ms-transform: rotate(315deg);
   -webkit-transform: rotate(315deg);
   -moz-transform: rotate(315deg);
   -o-transform: rotate(315deg);
   transform: rotate(315deg);
 
-  top: 31.5%;
+  top: 31.3%;
   left: 41.5%;
 }
-.the-bat-upside-down_8 {
+.mtck-the-bat-upside-down_8 {
   -ms-transform: rotate(45deg);
   -webkit-transform: rotate(45deg);
   -moz-transform: rotate(45deg);
   -o-transform: rotate(45deg);
   transform: rotate(45deg);
 
-  top: 31.5%;
+  top: 31.3%;
   left: 57%;
 }
-.the-bat-upside-down_9 {
+.mtck-the-bat-upside-down_9 {
   -ms-transform: rotate(315deg);
   -webkit-transform: rotate(315deg);
   -moz-transform: rotate(315deg);
   -o-transform: rotate(315deg);
   transform: rotate(315deg);
 
-  top: 55.8%;
+  top: 56%;
   left: 41.5%;
 }
-.the-bat-upside-down_10 {
+.mtck-the-bat-upside-down_10 {
   -ms-transform: rotate(45deg);
   -webkit-transform: rotate(45deg);
   -moz-transform: rotate(45deg);
   -o-transform: rotate(45deg);
   transform: rotate(45deg);
 
-  top: 55.8%;
+  top: 56%;
   left: 56.8%;
 }

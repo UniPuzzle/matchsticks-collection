@@ -5,8 +5,8 @@
   -o-transform: rotate(0deg);
   transform: rotate(0deg);
 
-  top: -1%;
-  left: 16.8%;
+  top: 61.5%;
+  left: 1.8%;
 }
 .mtck-8-cell-grid-to-7-squares_2 {
   -ms-transform: rotate(90deg);
@@ -15,8 +15,8 @@
   -o-transform: rotate(90deg);
   transform: rotate(90deg);
 
-  top: -1%;
-  left: 48.5%;
+  top: 48.8%;
+  left: 17.5%;
 }
 .mtck-8-cell-grid-to-7-squares_3 {
   -ms-transform: rotate(180deg);
@@ -25,7 +25,7 @@
   -o-transform: rotate(180deg);
   transform: rotate(180deg);
 
-  top: 11.5%;
+  top: 61.5%;
   left: 32.8%;
 }
 .mtck-8-cell-grid-to-7-squares_4 {
@@ -35,8 +35,8 @@
   -o-transform: rotate(270deg);
   transform: rotate(270deg);
 
-  top: -1%;
-  left: 80%;
+  top: 73.8%;
+  left: 17.5%;
 }
 .mtck-8-cell-grid-to-7-squares_5 {
   -ms-transform: rotate(0deg);
@@ -45,8 +45,8 @@
   -o-transform: rotate(0deg);
   transform: rotate(0deg);
 
-  top: 11.5%;
-  left: 64.3%;
+  top: 36.5%;
+  left: 33%;
 }
 .mtck-8-cell-grid-to-7-squares_6 {
   -ms-transform: rotate(270deg);
@@ -55,8 +55,8 @@
   -o-transform: rotate(270deg);
   transform: rotate(270deg);
 
-  top: 11.5%;
-  left: 95.6%;
+  top: 24%;
+  left: 17.5%;
 }
 .mtck-8-cell-grid-to-7-squares_7 {
   -ms-transform: rotate(180deg);
@@ -65,8 +65,8 @@
   -o-transform: rotate(180deg);
   transform: rotate(180deg);
 
-  top: 24%;
-  left: 79.9%;
+  top: 36.5%;
+  left: 1.8%;
 }
 .mtck-8-cell-grid-to-7-squares_8 {
   -ms-transform: rotate(90deg);
@@ -85,8 +85,8 @@
   -o-transform: rotate(0deg);
   transform: rotate(0deg);
 
-  top: 24%;
-  left: 17.5%;
+  top: 11.5%;
+  left: 64.3%;
 }
 .mtck-8-cell-grid-to-7-squares_10 {
   -ms-transform: rotate(270deg);
@@ -95,8 +95,8 @@
   -o-transform: rotate(270deg);
   transform: rotate(270deg);
 
-  top: 11.5%;
-  left: 1.8%;
+  top: -1%;
+  left: 48.5%;
 }
 .mtck-8-cell-grid-to-7-squares_11 {
   -ms-transform: rotate(180deg);
@@ -105,8 +105,8 @@
   -o-transform: rotate(180deg);
   transform: rotate(180deg);
 
-  top: 36.5%;
-  left: 1.8%;
+  top: 11.5%;
+  left: 32.8%;
 }
 .mtck-8-cell-grid-to-7-squares_12 {
   -ms-transform: rotate(90deg);
@@ -115,10 +115,30 @@
   -o-transform: rotate(90deg);
   transform: rotate(90deg);
 
-  top: 36.5%;
-  left: 33%;
+  top: -1%;
+  left: 80%;
 }
 .mtck-8-cell-grid-to-7-squares_13 {
+  -ms-transform: rotate(180deg);
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  transform: rotate(180deg);
+
+  top: 11.5%;
+  left: 95.6%;
+}
+.mtck-8-cell-grid-to-7-squares_14 {
+  -ms-transform: rotate(270deg);
+  -webkit-transform: rotate(270deg);
+  -moz-transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  transform: rotate(270deg);
+
+  top: 24%;
+  left: 79.9%;
+}
+.mtck-8-cell-grid-to-7-squares_15 {
   -ms-transform: rotate(180deg);
   -webkit-transform: rotate(180deg);
   -moz-transform: rotate(180deg);
@@ -128,26 +148,6 @@
   top: 36.5%;
   left: 64.1%;
 }
-.mtck-8-cell-grid-to-7-squares_14 {
-  -ms-transform: rotate(270deg);
-  -webkit-transform: rotate(270deg);
-  -moz-transform: rotate(270deg);
-  -o-transform: rotate(270deg);
-  transform: rotate(270deg);
-
-  top: 36.5%;
-  left: 95.8%;
-}
-.mtck-8-cell-grid-to-7-squares_15 {
-  -ms-transform: rotate(180deg);
-  -webkit-transform: rotate(180deg);
-  -moz-transform: rotate(180deg);
-  -o-transform: rotate(180deg);
-  transform: rotate(180deg);
-
-  top: 61.5%;
-  left: 95.8%;
-}
 .mtck-8-cell-grid-to-7-squares_16 {
   -ms-transform: rotate(270deg);
   -webkit-transform: rotate(270deg);
@@ -156,7 +156,7 @@
   transform: rotate(270deg);
 
   top: 48.8%;
-  left: 79.9%;
+  left: 48.4%;
 }
 .mtck-8-cell-grid-to-7-squares_17 {
   -ms-transform: rotate(90deg);
@@ -166,7 +166,7 @@
   transform: rotate(90deg);
 
   top: 48.8%;
-  left: 48.4%;
+  left: 79.9%;
 }
 .mtck-8-cell-grid-to-7-squares_18 {
   -ms-transform: rotate(0deg);
@@ -175,8 +175,8 @@
   -o-transform: rotate(0deg);
   transform: rotate(0deg);
 
-  top: 48.8%;
-  left: 17.5%;
+  top: 36.5%;
+  left: 95.8%;
 }
 .mtck-8-cell-grid-to-7-squares_19 {
   -ms-transform: rotate(90deg);
@@ -186,7 +186,7 @@
   transform: rotate(90deg);
 
   top: 73.8%;
-  left: 79.9%;
+  left: 48.4%;
 }
 .mtck-8-cell-grid-to-7-squares_20 {
   -ms-transform: rotate(0deg);
@@ -205,8 +205,8 @@
   -o-transform: rotate(180deg);
   transform: rotate(180deg);
 
-  top: 73.8%;
-  left: 48.4%;
+  top: 61.5%;
+  left: 95.8%;
 }
 .mtck-8-cell-grid-to-7-squares_22 {
   -ms-transform: rotate(270deg);
@@ -215,6 +215,6 @@
   -o-transform: rotate(270deg);
   transform: rotate(270deg);
 
-  top: 61.5%;
-  left: 32.8%;
+  top: 73.8%;
+  left: 79.9%;
 }

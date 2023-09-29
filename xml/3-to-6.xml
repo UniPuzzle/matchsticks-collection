@@ -12,7 +12,7 @@
 
 They say it is possible to get 6 out of these 3 matchsticks by moving 1 matchstick and no matchstick is broken or overlapped in the process.
 			</rules>
-                <piece id="1" base="0" rotation="0" meet_ends="0,1" shift="0,0"/><piece id="2" base="1" rotation="15" meet_ends="0,0" shift="0.3,0"/><piece id="3" base="1" rotation="0" meet_ends="0,0" shift="0.8,0"/> 
+<piece id="1" base="0" rotation="0" meet_ends="0,1" shift="0,0"/><piece id="2" base="1" rotation="15" meet_ends="0,0" shift="0.3,0"/><piece id="3" base="1" rotation="0" meet_ends="0,0" shift="0.8,0"/> 
             <solution type="generate">
                <piece id="1" base="2" rotation="345" meet_ends="0,0" shift="0,0"/> 
             </solution>       

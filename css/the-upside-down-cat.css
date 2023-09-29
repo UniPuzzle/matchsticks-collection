@@ -1,111 +1,94 @@
-.mtck-window-to-squares_1 {
+.changed-the-upside-down-cat {
+  height: 19%;
+}
+
+.mtck-the-upside-down-cat_1 {
   -ms-transform: rotate(0deg);
   -webkit-transform: rotate(0deg);
   -moz-transform: rotate(0deg);
   -o-transform: rotate(0deg);
   transform: rotate(0deg);
 
-  top: 50.2%;
-  left: 17%;
+  top: 40%;
+  left: 0.5%;
 }
-.mtck-window-to-squares_2 {
+.mtck-the-upside-down-cat_2 {
   -ms-transform: rotate(0deg);
   -webkit-transform: rotate(0deg);
   -moz-transform: rotate(0deg);
   -o-transform: rotate(0deg);
   transform: rotate(0deg);
 
-  top: 24.8%;
-  left: 17%;
+  top: 40%;
+  left: 24.5%;
 }
-.mtck-window-to-squares_3 {
+.mtck-the-upside-down-cat_3 {
   -ms-transform: rotate(90deg);
   -webkit-transform: rotate(90deg);
   -moz-transform: rotate(90deg);
   -o-transform: rotate(90deg);
   transform: rotate(90deg);
 
-  top: 12.4%;
-  left: 32.9%;
+  top: 30.3%;
+  left: 36.7%;
 }
-.mtck-window-to-squares_4 {
+.mtck-the-upside-down-cat_4 {
   -ms-transform: rotate(90deg);
   -webkit-transform: rotate(90deg);
   -moz-transform: rotate(90deg);
   -o-transform: rotate(90deg);
   transform: rotate(90deg);
 
-  top: 37.3%;
-  left: 32.9%;
+  top: 49.5%;
+  left: 36.7%;
 }
-.mtck-window-to-squares_5 {
+.mtck-the-upside-down-cat_5 {
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+
+  top: 40%;
+  left: 48.5%;
+}
+.mtck-the-upside-down-cat_6 {
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+
+  top: 40%;
+  left: 72.5%;
+}
+.mtck-the-upside-down-cat_7 {
   -ms-transform: rotate(90deg);
   -webkit-transform: rotate(90deg);
   -moz-transform: rotate(90deg);
   -o-transform: rotate(90deg);
   transform: rotate(90deg);
 
-  top: 62.6%;
-  left: 32.9%;
+  top: 30.3%;
+  left: 84.5%;
 }
-.mtck-window-to-squares_6 {
-  -ms-transform: rotate(0deg);
-  -webkit-transform: rotate(0deg);
-  -moz-transform: rotate(0deg);
-  -o-transform: rotate(0deg);
-  transform: rotate(0deg);
-
-  top: 50.2%;
-  left: 48.6%;
-}
-.mtck-window-to-squares_7 {
-  -ms-transform: rotate(0deg);
-  -webkit-transform: rotate(0deg);
-  -moz-transform: rotate(0deg);
-  -o-transform: rotate(0deg);
-  transform: rotate(0deg);
-
-  top: 24.8%;
-  left: 48.6%;
-}
-.mtck-window-to-squares_8 {
+.mtck-the-upside-down-cat_8 {
   -ms-transform: rotate(90deg);
   -webkit-transform: rotate(90deg);
   -moz-transform: rotate(90deg);
   -o-transform: rotate(90deg);
   transform: rotate(90deg);
 
-  top: 12.4%;
-  left: 64.3%;
+  top: 49.5%;
+  left: 84.5%;
 }
-.mtck-window-to-squares_9 {
-  -ms-transform: rotate(90deg);
-  -webkit-transform: rotate(90deg);
-  -moz-transform: rotate(90deg);
-  -o-transform: rotate(90deg);
-  transform: rotate(90deg);
-
-  top: 62.6%;
-  left: 64.3%;
-}
-
-.mtck-window-to-squares_10 {
+.mtck-the-upside-down-cat_9 {
   -ms-transform: rotate(0deg);
   -webkit-transform: rotate(0deg);
   -moz-transform: rotate(0deg);
   -o-transform: rotate(0deg);
   transform: rotate(0deg);
 
-  top: 50.2%;
-  left: 80%;
-}
-.mtck-window-to-squares_11 {
-  -ms-transform: rotate(0deg);
-  -webkit-transform: rotate(0deg);
-  -moz-transform: rotate(0deg);
-  -o-transform: rotate(0deg);
-  transform: rotate(0deg);
-
-  top: 24.8%;
-  left: 80%;
+  top: 40%;
+  left: 96.5%;
 }

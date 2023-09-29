@@ -1,8 +1,8 @@
-.itr_coin_size-elem-for-puzzling-time {
+.changed-puzzling-time {
   height: 18%;
 }
 
-.puzzling-time_1 {
+.mtck-puzzling-time_1 {
   -ms-transform: rotate(90deg);
   -webkit-transform: rotate(90deg);
   -moz-transform: rotate(90deg);
@@ -12,7 +12,7 @@
   top: 30.7%;
   left: 17.5%;
 }
-.puzzling-time_2 {
+.mtck-puzzling-time_2 {
   -ms-transform: rotate(180deg);
   -webkit-transform: rotate(180deg);
   -moz-transform: rotate(180deg);
@@ -22,7 +22,7 @@
   top: 40%;
   left: 29.5%;
 }
-.puzzling-time_3 {
+.mtck-puzzling-time_3 {
   -ms-transform: rotate(270deg);
   -webkit-transform: rotate(270deg);
   -moz-transform: rotate(270deg);
@@ -32,7 +32,7 @@
   top: 49.5%;
   left: 17.5%;
 }
-.puzzling-time_4 {
+.mtck-puzzling-time_4 {
   -ms-transform: rotate(0deg);
   -webkit-transform: rotate(0deg);
   -moz-transform: rotate(0deg);
@@ -42,7 +42,7 @@
   top: 40%;
   left: 5.5%;
 }
-.puzzling-time_5 {
+.mtck-puzzling-time_5 {
   -ms-transform: rotate(90deg);
   -webkit-transform: rotate(90deg);
   -moz-transform: rotate(90deg);
@@ -52,7 +52,7 @@
   top: 30.7%;
   left: 48.8%;
 }
-.puzzling-time_6 {
+.mtck-puzzling-time_6 {
   -ms-transform: rotate(180deg);
   -webkit-transform: rotate(180deg);
   -moz-transform: rotate(180deg);
@@ -62,7 +62,7 @@
   top: 40%;
   left: 60.8%;
 }
-.puzzling-time_7 {
+.mtck-puzzling-time_7 {
   -ms-transform: rotate(270deg);
   -webkit-transform: rotate(270deg);
   -moz-transform: rotate(270deg);
@@ -72,7 +72,7 @@
   top: 49.5%;
   left: 48.8%;
 }
-.puzzling-time_8 {
+.mtck-puzzling-time_8 {
   -ms-transform: rotate(0deg);
   -webkit-transform: rotate(0deg);
   -moz-transform: rotate(0deg);
@@ -82,7 +82,7 @@
   top: 40%;
   left: 37%;
 }
-.puzzling-time_9 {
+.mtck-puzzling-time_9 {
   -ms-transform: rotate(90deg);
   -webkit-transform: rotate(90deg);
   -moz-transform: rotate(90deg);
@@ -93,7 +93,7 @@
   left: 80.5%;
 }
 
-.puzzling-time_10 {
+.mtck-puzzling-time_10 {
   -ms-transform: rotate(180deg);
   -webkit-transform: rotate(180deg);
   -moz-transform: rotate(180deg);
@@ -103,7 +103,7 @@
   top: 40%;
   left: 92.5%;
 }
-.puzzling-time_11 {
+.mtck-puzzling-time_11 {
   -ms-transform: rotate(270deg);
   -webkit-transform: rotate(270deg);
   -moz-transform: rotate(270deg);
@@ -113,7 +113,7 @@
   top: 49.5%;
   left: 80.5%;
 }
-.puzzling-time_12 {
+.mtck-puzzling-time_12 {
   -ms-transform: rotate(0deg);
   -webkit-transform: rotate(0deg);
   -moz-transform: rotate(0deg);

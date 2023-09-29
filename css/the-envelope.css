@@ -1,4 +1,4 @@
-.the-envelope_1 {
+.mtck-the-envelope_1 {
   -ms-transform: rotate(0deg);
   -webkit-transform: rotate(0deg);
   -moz-transform: rotate(0deg);
@@ -8,7 +8,7 @@
   top: 36.8%;
   left: 33%;
 }
-.the-envelope_2 {
+.mtck-the-envelope_2 {
   -ms-transform: rotate(90deg);
   -webkit-transform: rotate(90deg);
   -moz-transform: rotate(90deg);
@@ -18,7 +18,7 @@
   top: 24.5%;
   left: 48.7%;
 }
-.the-envelope_3 {
+.mtck-the-envelope_3 {
   -ms-transform: rotate(180deg);
   -webkit-transform: rotate(180deg);
   -moz-transform: rotate(180deg);
@@ -28,7 +28,7 @@
   top: 36.8%;
   left: 64.3%;
 }
-.the-envelope_4 {
+.mtck-the-envelope_4 {
   -ms-transform: rotate(270deg);
   -webkit-transform: rotate(270deg);
   -moz-transform: rotate(270deg);
@@ -38,7 +38,7 @@
   top: 49.4%;
   left: 48.7%;
 }
-.the-envelope_5 {
+.mtck-the-envelope_5 {
   -ms-transform: rotate(135deg);
   -webkit-transform: rotate(135deg);
   -moz-transform: rotate(135deg);
@@ -49,7 +49,7 @@
   left: 38%;
 }
 
-.the-envelope_6 {
+.mtck-the-envelope_6 {
   -ms-transform: rotate(225deg);
   -webkit-transform: rotate(225deg);
   -moz-transform: rotate(225deg);

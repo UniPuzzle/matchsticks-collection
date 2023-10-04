@@ -1,0 +1,16 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="131">
+		<date>2021.28.02.08.30.34</date>
+	<designer>
+		<name type="author" id="UNA">Unknown Author</name>
+	</designer>
+		<title>A Fence</title>
+		<setup goal="image:generate">
+			<rules type="text"> 
+                In the fence shown, move 14 matches to make 3 squares.
+			</rules>
+<piece id="1" base="0" rotation="0" meet_ends="0,1" shift="0,0"/><piece id="2" base="1" rotation="270" meet_ends="0,0" shift="0,0"/><piece id="3" base="1" rotation="0" meet_ends="0,1" shift="0,0"/><piece id="4" base="1" rotation="270" meet_ends="0,1" shift="0,0"/><piece id="5" base="4" rotation="0" meet_ends="0,1" shift="0,0"/><piece id="6" base="5" rotation="0" meet_ends="1,0" shift="0,0"/><piece id="7" base="6" rotation="270" meet_ends="0,1" shift="0,0"/><piece id="8" base="7" rotation="0" meet_ends="0,0" shift="0,0"/><piece id="9" base="7" rotation="0" meet_ends="0,1" shift="0,0"/><piece id="10" base="7" rotation="270" meet_ends="0,1" shift="0,0"/><piece id="11" base="10" rotation="0" meet_ends="0,0" shift="0,0"/><piece id="12" base="10" rotation="0" meet_ends="0,1" shift="0,0"/><piece id="13" base="10" rotation="270" meet_ends="0,1" shift="0,0"/><piece id="14" base="3" rotation="0" meet_ends="0,1" shift="0,0"/><piece id="15" base="14" rotation="0" meet_ends="0,1" shift="0,0"/><piece id="16" base="5" rotation="0" meet_ends="0,1" shift="0,0"/><piece id="17" base="16" rotation="0" meet_ends="0,1" shift="0,0"/><piece id="18" base="9" rotation="0" meet_ends="0,1" shift="0,0"/><piece id="19" base="18" rotation="0" meet_ends="0,1" shift="0,0"/><piece id="20" base="12" rotation="0" meet_ends="0,1" shift="0,0"/><piece id="21" base="20" rotation="0" meet_ends="0,1" shift="0,0"/><piece id="22" base="20" rotation="270" meet_ends="0,1" shift="0,0"/><piece id="23" base="22" rotation="270" meet_ends="1,0" shift="0,0"/><piece id="24" base="23" rotation="270" meet_ends="1,0" shift="0,0"/><piece id="25" base="24" rotation="270" meet_ends="1,0" shift="0,0"/><piece id="26" base="25" rotation="270" meet_ends="1,0" shift="0,0"/> 
+	   </setup>
+	</challenge>
+</puzzle> 

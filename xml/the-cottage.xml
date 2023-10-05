@@ -14,7 +14,7 @@ b) two matchsticks;
 c) three matchsticks;
 d) four matchsticks.
 			</rules>
-            <piece id="1" base="0" rotation="0" meet_ends="0,1" shift="0,0"/><piece id="2" base="1" rotation="30" meet_ends="1,0" shift="0,0"/><piece id="3" base="2" rotation="150" meet_ends="1,0" shift="0,0"/><piece id="4" base="3" rotation="180" meet_ends="1,0" shift="0,0"/><piece id="5" base="4" rotation="270" meet_ends="1,0" shift="0,0"/> 
+<piece id="1" base="0" rotation="0" meet_ends="0,1" shift="0,0"/><piece id="2" base="1" rotation="30" meet_ends="1,0" shift="0,0"/><piece id="3" base="2" rotation="150" meet_ends="1,0" shift="0,0"/><piece id="4" base="3" rotation="180" meet_ends="1,0" shift="0,0"/><piece id="5" base="4" rotation="270" meet_ends="1,0" shift="0,0"/> 
 	   </setup>
 	</challenge>
 </puzzle> 

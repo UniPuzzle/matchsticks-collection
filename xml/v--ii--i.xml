@@ -1,0 +1,16 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="97">
+		<date>2021.05.02.09.58.25</date>
+	<designer>
+		<name type="author" id="SGS">Serhiy Grabarchuk Jr</name>
+	</designer>
+		<title>V - II = I</title>
+		<setup goal="image:generate">
+			<rules type="text"> 
+                Move two matchsticks to get a correct mathematical statement.
+			</rules>
+<piece id="1" base="0" rotation="340" meet_ends="0,1" shift="0,0"/><piece id="2" base="1" rotation="20" meet_ends="0,0" shift="0,0"/><piece id="3" base="2" rotation="90" meet_ends="0,0" shift="1,-0.5"/><piece id="4" base="2" rotation="0" meet_ends="0,0" shift="4.5,0"/><piece id="5" base="4" rotation="0" meet_ends="0,0" shift="0.2,0"/><piece id="6" base="5" rotation="90" meet_ends="0,0" shift="0.2,-0.4"/><piece id="7" base="6" rotation="90" meet_ends="0,0" shift="0,-0.2"/><piece id="8" base="5" rotation="0" meet_ends="0,0" shift="1.5,0"/> 
+	   </setup>
+	</challenge>
+</puzzle> 

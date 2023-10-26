@@ -14,7 +14,7 @@ By moving only one matchstick it is possible to make it correct.
 
 Presently the sum of the left and the right parts of the equation is 7 + 1 = 8. What will be the total sum of the left and the right parts of the equation once it is correct?
 			</rules>
-                <piece id="1" base="0" rotation="345" meet_ends="0,1" shift="0,0"/><piece id="2" base="1" rotation="15" meet_ends="0,0" shift="0,0"/><piece id="3" base="2" rotation="0" meet_ends="0,0" shift="2,0"/><piece id="4" base="3" rotation="0" meet_ends="0,0" shift="0.2,0"/><piece id="5" base="4" rotation="90" meet_ends="0,0" shift="0.2,-0.4"/><piece id="6" base="5" rotation="90" meet_ends="0,0" shift="0,-0.2"/><piece id="7" base="4" rotation="0" meet_ends="0,0" shift="1.5,0"/> 
+<piece id="1" base="0" rotation="345" meet_ends="0,1" shift="0,0"/><piece id="2" base="1" rotation="15" meet_ends="0,0" shift="0,0"/><piece id="3" base="2" rotation="0" meet_ends="0,0" shift="2,0"/><piece id="4" base="3" rotation="0" meet_ends="0,0" shift="0.2,0"/><piece id="5" base="4" rotation="90" meet_ends="0,0" shift="0.2,-0.4"/><piece id="6" base="5" rotation="90" meet_ends="0,0" shift="0,-0.2"/><piece id="7" base="4" rotation="0" meet_ends="0,0" shift="1.5,0"/> 
             <solution type="generate">
                <piece id="3" base="4" rotation="90" meet_ends="1,0" shift="-0.3,0"/> 
             </solution>       

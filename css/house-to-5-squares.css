@@ -1,0 +1,60 @@
+.mtck-house-to-5-squares_1 {
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+
+  top: 50%;
+  left: 32.5%;
+}
+.mtck-house-to-5-squares_2 {
+  -ms-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+
+  top: 37%;
+  left: 48.5%;
+}
+.mtck-house-to-5-squares_3 {
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+
+  top: 50%;
+  left: 64.4%;
+}
+.mtck-house-to-5-squares_4 {
+  -ms-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+
+  top: 63%;
+  left: 48.5%;
+}
+.mtck-house-to-5-squares_5 {
+  -ms-transform: rotate(30deg);
+  -webkit-transform: rotate(30deg);
+  -moz-transform: rotate(30deg);
+  -o-transform: rotate(30deg);
+  transform: rotate(30deg);
+
+  top: 26.6%;
+  left: 40.4%;
+}
+.mtck-house-to-5-squares_6 {
+  -ms-transform: rotate(330deg);
+  -webkit-transform: rotate(330deg);
+  -moz-transform: rotate(330deg);
+  -o-transform: rotate(330deg);
+  transform: rotate(330deg);
+
+  top: 26.6%;
+  left: 56.5%;
+}

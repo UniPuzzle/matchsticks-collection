@@ -99,62 +99,62 @@
   left: 64.2%;
 }
 .mtck-six-squares_11 {
-  -ms-transform: rotate(340deg);
-  -webkit-transform: rotate(340deg);
-  -moz-transform: rotate(340deg);
-  -o-transform: rotate(340deg);
-  transform: rotate(340deg);
-
-  top: 50.2%;
-  left: 74.2%;
-}
-.mtck-six-squares_12 {
-  -ms-transform: rotate(105deg);
-  -webkit-transform: rotate(105deg);
-  -moz-transform: rotate(105deg);
-  -o-transform: rotate(105deg);
-  transform: rotate(105deg);
-
-  top: 59%;
-  left: 64.7%;
-}
-.mtck-six-squares_13 {
-  -ms-transform: rotate(225deg);
-  -webkit-transform: rotate(225deg);
-  -moz-transform: rotate(225deg);
-  -o-transform: rotate(225deg);
-  transform: rotate(225deg);
-
-  top: 48%;
-  left: 58%;
-}
-.mtck-six-squares_14 {
-  -ms-transform: rotate(165deg);
-  -webkit-transform: rotate(165deg);
-  -moz-transform: rotate(165deg);
-  -o-transform: rotate(165deg);
-  transform: rotate(165deg);
-
-  top: 24.2%;
-  left: 21%;
-}
-.mtck-six-squares_15 {
-  -ms-transform: rotate(285deg);
-  -webkit-transform: rotate(285deg);
-  -moz-transform: rotate(285deg);
-  -o-transform: rotate(285deg);
-  transform: rotate(285deg);
-
-  top: 15.7%;
-  left: 32.2%;
-}
-.mtck-six-squares_16 {
   -ms-transform: rotate(45deg);
   -webkit-transform: rotate(45deg);
   -moz-transform: rotate(45deg);
   -o-transform: rotate(45deg);
   transform: rotate(45deg);
 
-  top: 27.5%;
-  left: 35.8%;
+  top: 29%;
+  left: 37.5%;
+}
+.mtck-six-squares_12 {
+  -ms-transform: rotate(285deg);
+  -webkit-transform: rotate(285deg);
+  -moz-transform: rotate(285deg);
+  -o-transform: rotate(285deg);
+  transform: rotate(285deg);
+
+  top: 17.3%;
+  left: 33.8%;
+}
+.mtck-six-squares_13 {
+  -ms-transform: rotate(165deg);
+  -webkit-transform: rotate(165deg);
+  -moz-transform: rotate(165deg);
+  -o-transform: rotate(165deg);
+  transform: rotate(165deg);
+
+  top: 26%;
+  left: 22.8%;
+}
+.mtck-six-squares_14 {
+  -ms-transform: rotate(225deg);
+  -webkit-transform: rotate(225deg);
+  -moz-transform: rotate(225deg);
+  -o-transform: rotate(225deg);
+  transform: rotate(225deg);
+
+  top: 46.2%;
+  left: 59.6%;
+}
+.mtck-six-squares_15 {
+  -ms-transform: rotate(345deg);
+  -webkit-transform: rotate(345deg);
+  -moz-transform: rotate(345deg);
+  -o-transform: rotate(345deg);
+  transform: rotate(345deg);
+
+  top: 49.2%;
+  left: 74%;
+}
+.mtck-six-squares_16 {
+  -ms-transform: rotate(105deg);
+  -webkit-transform: rotate(105deg);
+  -moz-transform: rotate(105deg);
+  -o-transform: rotate(105deg);
+  transform: rotate(105deg);
+
+  top: 57.8%;
+  left: 62.8%;
 }

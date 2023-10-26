@@ -1,5 +1,5 @@
 .changed-the-upside-down-cat {
-  height: 19%;
+  height: 22%;
 }
 
 .mtck-the-upside-down-cat_1 {
@@ -10,7 +10,7 @@
   transform: rotate(0deg);
 
   top: 40%;
-  left: 0.5%;
+  left: 6.5%;
 }
 .mtck-the-upside-down-cat_2 {
   -ms-transform: rotate(0deg);
@@ -29,8 +29,8 @@
   -o-transform: rotate(90deg);
   transform: rotate(90deg);
 
-  top: 30.3%;
-  left: 36.7%;
+  top: 29.5%;
+  left: 37.5%;
 }
 .mtck-the-upside-down-cat_4 {
   -ms-transform: rotate(90deg);
@@ -39,8 +39,8 @@
   -o-transform: rotate(90deg);
   transform: rotate(90deg);
 
-  top: 49.5%;
-  left: 36.7%;
+  top: 50.7%;
+  left: 37.5%;
 }
 .mtck-the-upside-down-cat_5 {
   -ms-transform: rotate(0deg);
@@ -50,7 +50,7 @@
   transform: rotate(0deg);
 
   top: 40%;
-  left: 48.5%;
+  left: 50.5%;
 }
 .mtck-the-upside-down-cat_6 {
   -ms-transform: rotate(0deg);
@@ -60,7 +60,7 @@
   transform: rotate(0deg);
 
   top: 40%;
-  left: 72.5%;
+  left: 63.9%;
 }
 .mtck-the-upside-down-cat_7 {
   -ms-transform: rotate(90deg);
@@ -69,8 +69,8 @@
   -o-transform: rotate(90deg);
   transform: rotate(90deg);
 
-  top: 30.3%;
-  left: 84.5%;
+  top: 29.5%;
+  left: 77.2%;
 }
 .mtck-the-upside-down-cat_8 {
   -ms-transform: rotate(90deg);
@@ -79,8 +79,8 @@
   -o-transform: rotate(90deg);
   transform: rotate(90deg);
 
-  top: 49.5%;
-  left: 84.5%;
+  top: 50.7%;
+  left: 77.2%;
 }
 .mtck-the-upside-down-cat_9 {
   -ms-transform: rotate(0deg);
@@ -90,5 +90,5 @@
   transform: rotate(0deg);
 
   top: 40%;
-  left: 96.5%;
+  left: 90.2%;
 }

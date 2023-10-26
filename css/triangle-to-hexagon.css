@@ -1,0 +1,60 @@
+.mtck-triangle-to-hexagon_1 {
+  -ms-transform: rotate(150deg);
+  -webkit-transform: rotate(150deg);
+  -moz-transform: rotate(150deg);
+  -o-transform: rotate(150deg);
+  transform: rotate(150deg);
+
+  top: 26.5%;
+  left: 56.7%;
+}
+.mtck-triangle-to-hexagon_2 {
+  -ms-transform: rotate(150deg);
+  -webkit-transform: rotate(150deg);
+  -moz-transform: rotate(150deg);
+  -o-transform: rotate(150deg);
+  transform: rotate(150deg);
+
+  top: 48.5%;
+  left: 72.4%;
+}
+.mtck-triangle-to-hexagon_3 {
+  -ms-transform: rotate(270deg);
+  -webkit-transform: rotate(270deg);
+  -moz-transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  transform: rotate(270deg);
+
+  top: 59.5%;
+  left: 64.5%;
+}
+.mtck-triangle-to-hexagon_4 {
+  -ms-transform: rotate(270deg);
+  -webkit-transform: rotate(270deg);
+  -moz-transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  transform: rotate(270deg);
+
+  top: 59.5%;
+  left: 33%;
+}
+.mtck-triangle-to-hexagon_5 {
+  -ms-transform: rotate(30deg);
+  -webkit-transform: rotate(30deg);
+  -moz-transform: rotate(30deg);
+  -o-transform: rotate(30deg);
+  transform: rotate(30deg);
+
+  top: 48.5%;
+  left: 25%;
+}
+.mtck-triangle-to-hexagon_6 {
+  -ms-transform: rotate(30deg);
+  -webkit-transform: rotate(30deg);
+  -moz-transform: rotate(30deg);
+  -o-transform: rotate(30deg);
+  transform: rotate(30deg);
+
+  top: 26.5%;
+  left: 41%;
+}

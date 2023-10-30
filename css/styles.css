@@ -94,11 +94,11 @@ p {
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
-  outline: 1px solid black;
+  /* outline: 1px solid black; */
   /* border-radius: 20px; */
 }
 
-.line1 {
+/* .line1 {
   top: 50%;
   width: 100%;
   position: absolute;
@@ -110,7 +110,7 @@ p {
   position: absolute;
   outline: 1px dotted black;
   rotate: 0deg;
-}
+} */
 
 .error {
   color: red;

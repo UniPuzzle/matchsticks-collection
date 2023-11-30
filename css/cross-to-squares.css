@@ -1,54 +1,57 @@
-.mtck-5-squares-to-6_1 {
-  -ms-transform: rotate(0deg);
-  -webkit-transform: rotate(0deg);
-  -moz-transform: rotate(0deg);
-  -o-transform: rotate(0deg);
-  transform: rotate(0deg);
-
-  top: 50.2%;
-  left: 17%;
+.changed-cross-to-squares {
+  height: 24%;
 }
-.mtck-5-squares-to-6_2 {
-  -ms-transform: rotate(0deg);
-  -webkit-transform: rotate(0deg);
-  -moz-transform: rotate(0deg);
-  -o-transform: rotate(0deg);
-  transform: rotate(0deg);
-
-  top: 24.8%;
-  left: 17%;
-}
-.mtck-5-squares-to-6_3 {
+.mtck-cross-to-squares_1 {
   -ms-transform: rotate(90deg);
   -webkit-transform: rotate(90deg);
   -moz-transform: rotate(90deg);
   -o-transform: rotate(90deg);
   transform: rotate(90deg);
 
-  top: 12.4%;
-  left: 32.9%;
+  top: -10.6%;
+  left: 48.5%;
 }
-.mtck-5-squares-to-6_4 {
-  -ms-transform: rotate(90deg);
-  -webkit-transform: rotate(90deg);
-  -moz-transform: rotate(90deg);
-  -o-transform: rotate(90deg);
-  transform: rotate(90deg);
-
-  top: 12.4%;
-  left: 64.3%;
-}
-.mtck-5-squares-to-6_5 {
+.mtck-cross-to-squares_2 {
   -ms-transform: rotate(0deg);
   -webkit-transform: rotate(0deg);
   -moz-transform: rotate(0deg);
   -o-transform: rotate(0deg);
   transform: rotate(0deg);
 
-  top: 24.8%;
-  left: 80%;
+  top: 1.6%;
+  left: 63.5%;
 }
-.mtck-5-squares-to-6_6 {
+.mtck-cross-to-squares_3 {
+  -ms-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+
+  top: 13.4%;
+  left: 78.8%;
+}
+.mtck-cross-to-squares_4 {
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+
+  top: 25.5%;
+  left: 94%;
+}
+.mtck-cross-to-squares_5 {
+  -ms-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+
+  top: 37.8%;
+  left: 78.8%;
+}
+.mtck-cross-to-squares_6 {
   -ms-transform: rotate(0deg);
   -webkit-transform: rotate(0deg);
   -moz-transform: rotate(0deg);
@@ -56,65 +59,105 @@
   transform: rotate(0deg);
 
   top: 50%;
-  left: 80%;
+  left: 63.5%;
 }
-.mtck-5-squares-to-6_7 {
-  -ms-transform: rotate(90deg);
-  -webkit-transform: rotate(90deg);
-  -moz-transform: rotate(90deg);
-  -o-transform: rotate(90deg);
-  transform: rotate(90deg);
-
-  top: 62.6%;
-  left: 64.3%;
-}
-.mtck-5-squares-to-6_8 {
-  -ms-transform: rotate(90deg);
-  -webkit-transform: rotate(90deg);
-  -moz-transform: rotate(90deg);
-  -o-transform: rotate(90deg);
-  transform: rotate(90deg);
-
-  top: 62.6%;
-  left: 32.9%;
-}
-.mtck-5-squares-to-6_9 {
+.mtck-cross-to-squares_7 {
   -ms-transform: rotate(0deg);
   -webkit-transform: rotate(0deg);
   -moz-transform: rotate(0deg);
   -o-transform: rotate(0deg);
   transform: rotate(0deg);
 
-  top: 24.8%;
-  left: 48.6%;
+  top: 74.3%;
+  left: 63.5%;
 }
-.mtck-5-squares-to-6_10 {
+.mtck-cross-to-squares_8 {
+  -ms-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+
+  top: 86.5%;
+  left: 78.9%;
+}
+.mtck-cross-to-squares_9 {
+  -ms-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+
+  top: 86.5%;
+  left: 48.5%;
+}
+.mtck-cross-to-squares_10 {
+  -ms-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+
+  top: 86.5%;
+  left: 17.8%;
+}
+.mtck-cross-to-squares_11 {
   -ms-transform: rotate(0deg);
   -webkit-transform: rotate(0deg);
   -moz-transform: rotate(0deg);
   -o-transform: rotate(0deg);
   transform: rotate(0deg);
 
-  top: 50.2%;
-  left: 48.6%;
+  top: 74.3%;
+  left: 33.3%;
 }
-.mtck-5-squares-to-6_11 {
+.mtck-cross-to-squares_12 {
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+
+  top: 50%;
+  left: 33.3%;
+}
+.mtck-cross-to-squares_13 {
   -ms-transform: rotate(90deg);
   -webkit-transform: rotate(90deg);
   -moz-transform: rotate(90deg);
   -o-transform: rotate(90deg);
   transform: rotate(90deg);
 
-  top: 37.3%;
-  left: 32.9%;
+  top: 37.7%;
+  left: 17.8%;
 }
-.mtck-5-squares-to-6_12 {
+.mtck-cross-to-squares_14 {
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+
+  top: 25.5%;
+  left: 2.8%;
+}
+.mtck-cross-to-squares_15 {
   -ms-transform: rotate(90deg);
   -webkit-transform: rotate(90deg);
   -moz-transform: rotate(90deg);
   -o-transform: rotate(90deg);
   transform: rotate(90deg);
 
-  top: 37.3%;
-  left: 64.3%;
+  top: 13.4%;
+  left: 18%;
+}
+.mtck-cross-to-squares_16 {
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+
+  top: 1.6%;
+  left: 33.3%;
 }
